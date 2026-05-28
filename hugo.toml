@@ -23,21 +23,5 @@ defaultContentLanguageInSubdir = true
     weight = 3
     title = 'FMFI Посібники'
 
-[menus]
-  [[menus.main]]
-    identifier = 'home'
-    name = 'Home'
-    pageRef = '/'
-    weight = 10
-
-  [[menus.main]]
-    identifier = 'posts'
-    name = 'Posts'
-    pageRef = '/posts'
-    weight = 20
-
-  [[menus.main]]
-    identifier = 'tags'
-    name = 'Tags'
-    pageRef = '/tags'
-    weight = 30
+[params]
+  menuDepth = 3

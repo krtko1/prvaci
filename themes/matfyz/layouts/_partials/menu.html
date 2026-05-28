@@ -1,56 +1,49 @@
 {{- /*
-Renders a menu for the given menu ID.
-
-@context {page} page The current page.
-@context {string} menuID The menu ID.
-
-@example: {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+Renders an automatic menu based on the content tree.
+Controlled via site.Params.menuDepth (default 3).
 */}}
 
 {{- $page := .page }}
-{{- $menuID := .menuID }}
+{{- $maxDepth := default 3 site.Params.menuDepth }}
 
-{{- with index site.Menus $menuID }}
-  <nav id="site-menu" class="site-menu" aria-label="Main">
-    <div class="site-menu__panel">
-      <ul class="site-menu__list">
-        {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
-      </ul>
-    </div>
-  </nav>
-{{- end }}
+<nav id="site-menu" class="site-menu" aria-label="Main">
+  <div class="site-menu__panel">
+    <ul class="site-menu__list">
+      <li class="site-menu__item">
+        {{- $homeClasses := slice "site-menu__link" }}
+        {{- if $page.IsHome }}
+          {{- $homeClasses = $homeClasses | append "active" }}
+        {{- end }}
+        <a class="{{ delimit $homeClasses " " }}" href="{{ site.Home.RelPermalink }}">{{ i18n "home" }}</a>
+      </li>
+      {{- template "menu-children" (dict "nodes" site.Home.Sections.ByWeight "page" $page "depth" 1 "maxDepth" $maxDepth) }}
+      {{- template "menu-children" (dict "nodes" site.Home.RegularPages.ByWeight "page" $page "depth" 1 "maxDepth" $maxDepth) }}
+    </ul>
+  </div>
+</nav>
 
-{{- define "_partials/inline/menu/walk.html" }}
+{{- define "menu-children" }}
   {{- $page := .page }}
-  {{- range .menuEntries }}
-    {{- $attrs := dict "href" .URL }}
+  {{- $depth := .depth }}
+  {{- $maxDepth := .maxDepth }}
+  {{- range .nodes }}
     {{- $classes := slice "site-menu__link" }}
-    {{- if $page.IsMenuCurrent .Menu . }}
+    {{- if eq $page.RelPermalink .RelPermalink }}
       {{- $classes = $classes | append "active" }}
-      {{- $attrs = merge $attrs (dict "aria-current" "page") }}
-    {{- else if $page.HasMenuCurrent .Menu .}}
+    {{- else if .IsAncestor $page }}
       {{- $classes = $classes | append "ancestor" }}
-      {{- $attrs = merge $attrs (dict "aria-current" "true") }}
-    {{- end }}
-    {{- $attrs = merge $attrs (dict "class" (delimit $classes " ")) }}
-    {{- $name := .Name }}
-    {{- with .Identifier }}
-      {{- with T . }}
-        {{- $name = . }}
-      {{- end }}
     {{- end }}
     <li class="site-menu__item">
-      <a
-        {{- range $k, $v := $attrs }}
-          {{- with $v }}
-            {{- printf " %s=%q" $k $v | safeHTMLAttr }}
-          {{- end }}
-        {{- end -}}
-      >{{ $name }}</a>
-      {{- with .Children }}
-        <ul class="site-menu__sublist">
-          {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
-        </ul>
+      <a class="{{ delimit $classes " " }}" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      {{- if lt $depth $maxDepth }}
+        {{- $childSections := .Sections.ByWeight }}
+        {{- $childPages := .RegularPages.ByWeight }}
+        {{- if or (gt (len $childSections) 0) (gt (len $childPages) 0) }}
+          <ul class="site-menu__sublist">
+            {{- template "menu-children" (dict "nodes" $childSections "page" $page "depth" (add $depth 1) "maxDepth" $maxDepth) }}
+            {{- template "menu-children" (dict "nodes" $childPages "page" $page "depth" (add $depth 1) "maxDepth" $maxDepth) }}
+          </ul>
+        {{- end }}
       {{- end }}
     </li>
   {{- end }}

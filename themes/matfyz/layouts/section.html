@@ -14,7 +14,7 @@
         <div class="card__summary">{{ .Summary }}</div>
       </article>
     {{ end }}
-    {{ range .Pages.ByWeight }}
+    {{ range .RegularPages.ByWeight }}
       <article class="card">
         <h2 class="card__title"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
         <div class="card__summary">{{ .Summary }}</div>

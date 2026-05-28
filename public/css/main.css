@@ -57,11 +57,16 @@
   border-color: var(--accent);
   color: var(--accent);
 }
+.menu-label {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-weight: 600;
+}
 .menu-toggle {
   display: inline-flex;
   align-items: center;
-  gap: 0.75rem;
-  padding: 0.45rem 0.9rem;
+  padding: 0.9rem 0.6rem;
   background: transparent;
   color: var(--text);
   border: 2px solid var(--accent);
@@ -69,9 +74,6 @@
   letter-spacing: 0.08em;
   font-weight: 600;
   cursor: pointer;
-}
-.menu-toggle__label {
-  font-size: 0.8rem;
 }
 .menu-toggle__icon {
   position: relative;
@@ -93,11 +95,6 @@
 }
 .menu-toggle__icon::after {
   top: 6px;
-}
-@media (min-width: 960px) {
-  .menu-toggle {
-    display: none;
-  }
 }
 body.menu-open .menu-toggle {
   color: var(--white);
