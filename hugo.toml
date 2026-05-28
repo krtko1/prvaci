@@ -1,4 +1,43 @@
 baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'FMFI návody'
 theme = 'matfyz'
+defaultContentLanguage = 'sk'
+defaultContentLanguageInSubdir = true
+
+[languages]
+  [languages.sk]
+    label = 'Slovenčina'
+    locale = 'sk'
+    weight = 1
+    title = 'FMFI návody'
+
+  [languages.en]
+    label = 'English'
+    locale = 'en'
+    weight = 2
+    title = 'FMFI Guides'
+
+  [languages.uk]
+    label = 'Українська'
+    locale = 'uk'
+    weight = 3
+    title = 'FMFI Посібники'
+
+[menus]
+  [[menus.main]]
+    identifier = 'home'
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+
+  [[menus.main]]
+    identifier = 'posts'
+    name = 'Posts'
+    pageRef = '/posts'
+    weight = 20
+
+  [[menus.main]]
+    identifier = 'tags'
+    name = 'Tags'
+    pageRef = '/tags'
+    weight = 30

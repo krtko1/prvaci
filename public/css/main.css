@@ -36,6 +36,27 @@
   align-items: center;
   gap: 1rem;
 }
+.lang-switch {
+  display: inline-flex;
+  gap: 0.4rem;
+  flex-wrap: wrap;
+}
+.lang-switch__link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.25rem 0.5rem;
+  border: 2px solid var(--border);
+  color: var(--text);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 0.7rem;
+  font-weight: 600;
+}
+.lang-switch__link.is-active {
+  border-color: var(--accent);
+  color: var(--accent);
+}
 .menu-toggle {
   display: inline-flex;
   align-items: center;

@@ -5,9 +5,15 @@
   </a>
   <div class="site-header__nav">
     <button class="menu-toggle" type="button" data-menu-toggle aria-controls="site-menu" aria-expanded="false">
-      <span class="menu-toggle__label">Menu</span>
+      <span class="menu-toggle__label">{{ i18n "menu" }}</span>
       <span class="menu-toggle__icon" aria-hidden="true"></span>
     </button>
+    <div class="lang-switch" aria-label="Language">
+      {{ $currentLang := site.Language.Lang }}
+      {{ range site.Home.AllTranslations }}
+        <a class="lang-switch__link {{ if eq .Lang $currentLang }}is-active{{ end }}" href="{{ .RelPermalink }}">{{ .Language.Label }}</a>
+      {{ end }}
+    </div>
     {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
   </div>
 </div>
