@@ -20,11 +20,6 @@
       menu.querySelectorAll("a").forEach((link) => {
         link.addEventListener("click", () => setMenuState(false));
       });
-      window.addEventListener("resize", () => {
-        if (window.innerWidth >= 960) {
-          setMenuState(false);
-        }
-      });
     }
   };
   if (document.readyState === "loading") {
