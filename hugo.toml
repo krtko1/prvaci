@@ -23,5 +23,6 @@ defaultContentLanguageInSubdir = true
     weight = 3
     title = 'FMFI Посібники'
 
+
 [params]
   menuDepth = 3
