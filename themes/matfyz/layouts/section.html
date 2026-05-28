@@ -8,7 +8,13 @@
     {{ end }}
   </section>
   <div class="listing-grid">
-    {{ range .Pages }}
+    {{ range .Sections.ByWeight }}
+      <article class="card">
+        <h2 class="card__title"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+        <div class="card__summary">{{ .Summary }}</div>
+      </article>
+    {{ end }}
+    {{ range .Pages.ByWeight }}
       <article class="card">
         <h2 class="card__title"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
         <div class="card__summary">{{ .Summary }}</div>
