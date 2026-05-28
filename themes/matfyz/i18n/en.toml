@@ -9,3 +9,6 @@ other = "Tags"
 
 [menu]
 other = "Menu"
+
+[close]
+other = "Close"

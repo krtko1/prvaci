@@ -9,3 +9,6 @@ other = "Značky"
 
 [menu]
 other = "Ponuka"
+
+[close]
+other = "Zavrieť"

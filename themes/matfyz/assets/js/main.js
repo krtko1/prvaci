@@ -1,6 +1,7 @@
 const initMenu = () => {
   const menuToggle = document.querySelector("[data-menu-toggle]");
   const menu = document.getElementById("site-menu");
+  const menuClose = menu ? menu.querySelector("[data-menu-close]") : null;
 
   const setMenuState = (isOpen) => {
     document.body.classList.toggle("menu-open", isOpen);
@@ -17,6 +18,10 @@ const initMenu = () => {
       const isOpen = document.body.classList.contains("menu-open");
       setMenuState(!isOpen);
     });
+
+    if (menuClose) {
+      menuClose.addEventListener("click", () => setMenuState(false));
+    }
 
     menu.querySelectorAll("a").forEach((link) => {
       link.addEventListener("click", () => setMenuState(false));

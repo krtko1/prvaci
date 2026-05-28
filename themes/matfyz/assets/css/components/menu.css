@@ -22,6 +22,20 @@
   overscroll-behavior: contain;
 }
 
+.site-menu__close {
+  position: absolute;
+  top: 1.5rem;
+  right: 1.5rem;
+  background: transparent;
+  border: 2px solid var(--primary-tint-80);
+  color: var(--white);
+  padding: 0.35rem 0.6rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-weight: 600;
+  cursor: pointer;
+}
+
 .site-menu__list,
 .site-menu__sublist {
   list-style: none;

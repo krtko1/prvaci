@@ -9,3 +9,6 @@ other = "Теги"
 
 [menu]
 other = "Меню"
+
+[close]
+other = "Закрити"
