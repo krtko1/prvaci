@@ -102,6 +102,16 @@ body.menu-open .menu-toggle {
   color: var(--white);
   border-color: var(--white);
 }
+@media (prefers-color-scheme: light) {
+  .site-header a:hover,
+  .site-header a:focus-visible {
+    color: var(--primary-tint-80);
+  }
+  .site-header .lang-switch__link:hover,
+  .site-header .lang-switch__link:focus-visible {
+    border-color: var(--white);
+  }
+}
 @media (prefers-color-scheme: dark) {
   .site-header {
     background: var(--primary-shade-40);
@@ -411,7 +421,7 @@ h6 {
 }
 @media (min-width: 720px) {
   .listing-grid {
-    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(26ch, 1fr));
   }
 }
 .card {

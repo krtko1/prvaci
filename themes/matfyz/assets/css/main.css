@@ -212,7 +212,7 @@ h6 {
 
 @media (min-width: 720px) {
   .listing-grid {
-    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(26ch, 1fr));
   }
 }
 

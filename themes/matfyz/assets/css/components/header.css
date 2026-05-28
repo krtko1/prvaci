@@ -117,6 +117,18 @@ body.menu-open .menu-toggle {
   border-color: var(--white);
 }
 
+@media (prefers-color-scheme: light) {
+  .site-header a:hover,
+  .site-header a:focus-visible {
+    color: var(--primary-tint-80);
+  }
+
+  .site-header .lang-switch__link:hover,
+  .site-header .lang-switch__link:focus-visible {
+    border-color: var(--white);
+  }
+}
+
 @media (prefers-color-scheme: dark) {
   .site-header {
     background: var(--primary-shade-40);
