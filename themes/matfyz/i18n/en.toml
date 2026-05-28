@@ -1,0 +1,11 @@
+[home]
+other = "Home"
+
+[posts]
+other = "Posts"
+
+[tags]
+other = "Tags"
+
+[menu]
+other = "Menu"

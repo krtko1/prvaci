@@ -1,0 +1,11 @@
+[home]
+other = "Головна"
+
+[posts]
+other = "Публікації"
+
+[tags]
+other = "Теги"
+
+[menu]
+other = "Меню"
