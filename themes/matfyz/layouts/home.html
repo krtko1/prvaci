@@ -1,9 +1,18 @@
 {{ define "main" }}
-  {{ .Content }}
-  {{ range site.RegularPages }}
-    <section>
-      <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-      {{ .Summary }}
-    </section>
-  {{ end }}
+  <section class="page-header">
+    <h1 class="page-title">{{ site.Title }}</h1>
+    {{ with .Content }}
+      <div class="content">
+        {{ . }}
+      </div>
+    {{ end }}
+  </section>
+  <div class="listing-grid">
+    {{ range site.RegularPages }}
+      <article class="card">
+        <h2 class="card__title"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+        <div class="card__summary">{{ .Summary }}</div>
+      </article>
+    {{ end }}
+  </div>
 {{ end }}

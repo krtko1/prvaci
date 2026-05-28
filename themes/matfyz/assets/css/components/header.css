@@ -1,4 +1,96 @@
-header {
-  border-bottom: 1px solid #222;
-  margin-bottom: 1rem;
+.site-header {
+  border-bottom: 3px solid var(--accent);
+  background: var(--bg);
+  position: sticky;
+  top: 0;
+  z-index: 25;
+}
+
+.site-header__inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 1rem 0;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.35rem 0.6rem;
+  text-decoration: none;
+  color: var(--text);
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.brand__logo {
+  width: 64px;
+  height: 64px;
+}
+
+.brand__text {
+  font-size: 1.05rem;
+}
+
+.site-header__nav {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.menu-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.45rem 0.9rem;
+  background: transparent;
+  color: var(--text);
+  border: 2px solid var(--accent);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.menu-toggle__label {
+  font-size: 0.8rem;
+}
+
+.menu-toggle__icon {
+  position: relative;
+  width: 22px;
+  height: 2px;
+  background: currentColor;
+}
+
+.menu-toggle__icon::before,
+.menu-toggle__icon::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  width: 22px;
+  height: 2px;
+  background: currentColor;
+}
+
+.menu-toggle__icon::before {
+  top: -6px;
+}
+
+.menu-toggle__icon::after {
+  top: 6px;
+}
+
+@media (min-width: 960px) {
+  .menu-toggle {
+    display: none;
+  }
+}
+
+body.menu-open .menu-toggle {
+  color: var(--white);
+  border-color: var(--white);
 }

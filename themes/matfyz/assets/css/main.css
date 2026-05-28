@@ -1,15 +1,278 @@
 @import "components/header.css";
+@import "components/menu.css";
 @import "components/footer.css";
 
+@font-face {
+  font-family: "UK Sans";
+  src: url("../fonts/UKSans-Regular.woff2") format("woff2"),
+    url("../fonts/UKSans-Regular.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "UK Sans";
+  src: url("../fonts/UKSans-Medium.woff2") format("woff2"),
+    url("../fonts/UKSans-Medium.otf") format("opentype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "UK Sans";
+  src: url("../fonts/UKSans-Bold.woff2") format("woff2"),
+    url("../fonts/UKSans-Bold.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "UK Sans";
+  src: url("../fonts/UKSans-Black.woff2") format("woff2"),
+    url("../fonts/UKSans-Black.otf") format("opentype");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  color-scheme: light dark;
+  --white: #ffffff;
+  --black: #000000;
+
+  --primary-500: #aa272f;
+  --primary-tint-20: #bb5259;
+  --primary-tint-40: #cc7d82;
+  --primary-tint-60: #dda9ac;
+  --primary-tint-80: #eed4d5;
+  --primary-tint-90: #f6e9ea;
+  --primary-shade-20: #881f26;
+  --primary-shade-40: #66171c;
+  --primary-shade-60: #441013;
+  --primary-shade-80: #220809;
+  --primary-shade-90: #110405;
+
+  --bg: var(--white);
+  --surface: var(--primary-tint-90);
+  --text: #1a1a1a;
+  --muted: #4d4d4d;
+  --border: var(--primary-tint-60);
+  --accent: var(--primary-500);
+  --accent-strong: var(--primary-shade-20);
+  --watermark: var(--primary-shade-40);
+
+  --gutter: clamp(1rem, 4vw, 2.5rem);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0b0b0b;
+    --surface: #141414;
+    --text: #f5f2f2;
+    --muted: #d2c5c5;
+    --border: var(--primary-shade-20);
+    --accent: var(--primary-tint-40);
+    --accent-strong: var(--primary-tint-20);
+    --watermark: var(--primary-shade-80);
+  }
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 body {
-  color: #222;
-  font-family: sans-serif;
-  line-height: 1.5;
-  margin: 1rem;
-  max-width: 768px;
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: "UK Sans", "Segoe UI", sans-serif;
+  line-height: 1.6;
+  text-rendering: optimizeLegibility;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
 }
 
 a {
-  color: #00e;
+  color: var(--accent);
   text-decoration: none;
+}
+
+a:hover {
+  color: var(--accent-strong);
+}
+
+button,
+input,
+textarea,
+select {
+  font-family: inherit;
+  border-radius: 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 var(--gutter);
+}
+
+.site-main {
+  position: relative;
+  padding: 2.5rem 0 4rem;
+  overflow: hidden;
+}
+
+.site-main::before {
+  content: "";
+  position: absolute;
+  width: min(60vw, 520px);
+  height: min(60vw, 520px);
+  top: clamp(2rem, 12vw, 6rem);
+  right: clamp(-10rem, -8vw, -4rem);
+  background: var(--watermark);
+  opacity: 0.2;
+  pointer-events: none;
+  -webkit-mask: url("../logos/FMFI-logo.svg") no-repeat center / contain;
+  mask: url("../logos/FMFI-logo.svg") no-repeat center / contain;
+}
+
+.site-main > .container {
+  position: relative;
+  z-index: 1;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "UK Sans", "Segoe UI", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  margin: 0 0 0.75rem;
+}
+
+.page-header {
+  margin-bottom: 2rem;
+  border-left: 4px solid var(--accent);
+  padding-left: 1.25rem;
+}
+
+.page-title {
+  font-size: clamp(2rem, 4vw, 3rem);
+}
+
+.page-meta {
+  font-size: 0.95rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+}
+
+.content {
+  font-family: "Roboto", system-ui, sans-serif;
+  font-size: 1.05rem;
+  line-height: 1.75;
+  max-width: 70ch;
+}
+
+.content p {
+  margin: 0 0 1.25rem;
+}
+
+.content h1,
+.content h2,
+.content h3,
+.content h4,
+.content h5,
+.content h6 {
+  font-family: "UK Sans", "Segoe UI", sans-serif;
+}
+
+.listing-grid {
+  display: grid;
+  gap: 1.5rem;
+}
+
+@media (min-width: 720px) {
+  .listing-grid {
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  }
+}
+
+.card {
+  background: var(--surface);
+  border: 2px solid var(--border);
+  padding: 1.25rem;
+  border-radius: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  min-height: 160px;
+}
+
+.card__title {
+  margin: 0;
+}
+
+.card__title a {
+  color: var(--text);
+}
+
+.card__summary {
+  font-family: "Roboto", system-ui, sans-serif;
+  color: var(--muted);
+}
+
+.terms {
+  margin-top: 2rem;
+  border-top: 2px solid var(--border);
+  padding-top: 1rem;
+}
+
+.terms__label {
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.terms__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+.terms__item a {
+  display: inline-block;
+  padding: 0.25rem 0.5rem;
+  border: 2px solid var(--accent);
+  color: var(--accent);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  font-size: 0.8rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  .brand__logo,
+  .footer-logo {
+    filter: invert(1);
+  }
+}
+
+body.menu-open .brand__logo,
+body.menu-open .footer-logo {
+  filter: invert(1);
 }
