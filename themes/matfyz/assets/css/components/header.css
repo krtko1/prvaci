@@ -1,6 +1,6 @@
 .site-header {
-  border-bottom: 3px solid var(--accent);
-  background: var(--bg);
+  border-bottom: 3px solid var(--primary-shade-20);
+  background: var(--primary-500);
   position: sticky;
   top: 0;
   z-index: 25;
@@ -20,7 +20,7 @@
   gap: 0.75rem;
   padding: 0.35rem 0.6rem;
   text-decoration: none;
-  color: var(--text);
+  color: var(--white);
   font-weight: 700;
   letter-spacing: 0.08em;
   text-transform: uppercase;
@@ -29,6 +29,7 @@
 .brand__logo {
   width: 64px;
   height: 64px;
+  filter: invert(1);
 }
 
 .brand__text {
@@ -52,8 +53,8 @@
   align-items: center;
   justify-content: center;
   padding: 0.25rem 0.5rem;
-  border: 2px solid var(--border);
-  color: var(--text);
+  border: 2px solid var(--primary-tint-80);
+  color: var(--white);
   text-transform: uppercase;
   letter-spacing: 0.08em;
   font-size: 0.7rem;
@@ -61,8 +62,8 @@
 }
 
 .lang-switch__link.is-active {
-  border-color: var(--accent);
-  color: var(--accent);
+  border-color: var(--white);
+  color: var(--white);
 }
 
 .menu-label {
@@ -70,6 +71,7 @@
   text-transform: uppercase;
   letter-spacing: 0.08em;
   font-weight: 600;
+  color: var(--white);
 }
 
 .menu-toggle {
@@ -77,8 +79,8 @@
   align-items: center;
   padding: 0.9rem 0.6rem;
   background: transparent;
-  color: var(--text);
-  border: 2px solid var(--accent);
+  color: var(--white);
+  border: 2px solid var(--white);
   text-transform: uppercase;
   letter-spacing: 0.08em;
   font-weight: 600;
@@ -113,4 +115,11 @@
 body.menu-open .menu-toggle {
   color: var(--white);
   border-color: var(--white);
+}
+
+@media (prefers-color-scheme: dark) {
+  .site-header {
+    background: var(--primary-shade-40);
+    border-bottom-color: var(--primary-shade-80);
+  }
 }

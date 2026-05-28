@@ -65,6 +65,9 @@
     <loc>http://localhost:1313/sk/internat/nemam/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/sk/zapis/child/</loc>
+    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/sk/tags/red/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
@@ -88,6 +91,21 @@
   </url><url>
     <loc>http://localhost:1313/sk/zapis/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/zapis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="http://localhost:1313/uk/zapis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="http://localhost:1313/sk/zapis/"
+                />
   </url><url>
     <loc>http://localhost:1313/sk/categories/</loc>
     <xhtml:link
