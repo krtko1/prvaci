@@ -1,0 +1,16 @@
+.collapsible-section summary {
+    background-color: #66171c;
+    padding: 10px 12px;
+    font-weight: 600;
+  }
+  
+  .collapsible-section > *:not(summary) {
+    padding: 12px 14px;
+    margin-top: 8px;
+  }
+  
+  .collapsible-section {
+    margin: 12px 0;
+    overflow: hidden;
+  }
+  
