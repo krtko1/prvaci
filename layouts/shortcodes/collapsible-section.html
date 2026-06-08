@@ -1,4 +1,4 @@
 <details class="collapsible-section">
-    <summary>{{ .Get 0 }}</summary>
+    <summary>{{ .Get 0 | markdownify}}</summary>
     {{ .Inner | markdownify }}
 </details>

@@ -28,6 +28,6 @@ Ako prvák/čka po podaní žiadosti si povinný/á včas uhradiť poplatok (tzv
 
 Ak si si ubytovanie na internáte rozmyslel/a, vieš žiadosť zrušiť a požiadať o vrátenie poplatku. V čase podania žiadosti na to máš tlačidlo v sekcii *Žiadosť*. Aby ti bola vrátená predkaucia, napíš z tvojho univerzitného e-mailového konta spolu s výpisom/identifikáciou platby na e-mail [koordinator.ubytovanie@uniba.sk](mailto:koordinator.ubytovanie@uniba.sk).
 
-POZOR**, zrušenie žiadosti sa dá urobiť iba v **termíne podania žiadosti** podľa harmonogramu, potom sa tlačidlo stane neaktívne a kaucia sa ti nevráti, aj keď napíšeš mail koordinátorovi. Každopádne o tom môžeš informovať CePIT na tel. číslo 02/9010 4444 a oni si poznačia, že sa uvoľnilo lôžko.
+**POZOR**, zrušenie žiadosti sa dá urobiť iba v **termíne podania žiadosti** podľa harmonogramu, potom sa tlačidlo stane neaktívne a kaucia sa ti nevráti, aj keď napíšeš mail koordinátorovi. Každopádne o tom môžeš informovať CePIT na tel. číslo 02/9010 4444 a oni si poznačia, že sa uvoľnilo lôžko.
 
 {{< /collapsible-section >}}
