@@ -17,7 +17,7 @@ Detailnejší návod o tom, ako si podať žiadosť na ubytovanie nájdeš v [sp
 
 {{< collapsible-section "Uhradenie predkaucie" >}}
 
-Ako prvák/čka po podaní žiadosti si povinný/á včas uhradiť poplatok (tzv. **predkauciu**) ako zálohu pre interńaty UK. Si povinný uhradiť túto kauciu **do konca termínu podávania žiadosti**. Predkaucia je 50€ a uhrádza sa na číslo účtu *SK53 8180 0000 0070 0055 7900*. 
+Ako prvák/čka po podaní žiadosti si povinný/á včas uhradiť poplatok (tzv. **predkauciu**) ako zálohu pre internáty UK. Si povinný uhradiť túto kauciu **do konca termínu podávania žiadosti**. Predkaucia je 50€ a uhrádza sa na číslo účtu *SK53 8180 0000 0070 0055 7900*. 
 
 **POZOR**, v platbe musíš uviesť aj **variabilný symbol**, ktorí ti zobrazí ubytovací systém v rámci podania žiadosti o ubytovanie (je totožný s univerzitným osobným číslom (UOČ)). Bez uvedenia variabilného symbolu nebude možné spárovať platbu s tebou.
 
