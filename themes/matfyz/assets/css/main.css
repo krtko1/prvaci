@@ -1,6 +1,8 @@
 @import "components/header.css";
 @import "components/menu.css";
 @import "components/footer.css";
+@import "components/collapsible-section.css";
+
 
 @font-face {
   font-family: "UK Sans";

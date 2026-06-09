@@ -6,19 +6,19 @@ defaultContentLanguageInSubdir = true
 
 [languages]
   [languages.sk]
-    label = 'Slovenčina'
+    label = 'SK'
     locale = 'sk'
     weight = 1
     title = 'FMFI návody'
 
   [languages.en]
-    label = 'English'
+    label = 'EN'
     locale = 'en'
     weight = 2
     title = 'FMFI Guides'
 
   [languages.uk]
-    label = 'Українська'
+    label = 'UA'
     locale = 'uk'
     weight = 3
     title = 'FMFI Посібники'

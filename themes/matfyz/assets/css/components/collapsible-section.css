@@ -1,0 +1,21 @@
+.collapsible-section summary {
+  background-color: var(--accent-strong);
+  color: var(--white);
+  padding: 10px 12px;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.collapsible-section {
+  margin: 12px 0;
+  overflow: hidden;
+}
+
+.collapsible-content {
+  font-size: 14px;
+  text-align: justify;
+  padding: 12px 12px;
+  color: var(--text);
+  background-color: var(--surface);
+  border-left: 4px solid var(--accent-strong);
+}
