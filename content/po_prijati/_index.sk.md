@@ -5,4 +5,3 @@ draft = false
 summary = 'Všetko, na čo musíš myslieť v období od prijatia na FMFI po prezenčný zápis.'
 +++
 
-*WIP*
