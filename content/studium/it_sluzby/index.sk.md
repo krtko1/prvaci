@@ -1,18 +1,10 @@
 +++
-title = 'Ostatné'
+title = 'IT služby a systémy'
 date = 2023-03-15T11:00:00-07:00
 draft = false
-summary = 'V tejto sekcii nájdeš rôzne užitočné informácie, ktoré sa inam nezmestili'
+summary = 'Čo je [votr](votr.uniba.sk), ako sa prihlásiŤ na Wi-Fi, aké systémy sa používajú na predmetoch...'
 +++
 
-{{< collapsible-section "Ktoré miesta by som mal poznať?" >}}
-
-- *dekanát a pavilón F1* (hlavný vchod, Mlynská dolina) -- sekretariát dekana, dekanát, fyzikálne katedry, posluchárne F1, F2
-- *pavilón matematiky (M)*: **študijné oddelenie**, matematické a informatické katedry, na chodbe do pavilónu F1 sú posluchárne A, B, C
-- *pavilón informatiky (I)*: fakultná knižnica na $-1$. poschodí (vchod cez pavilón M)
-- *pavilón športu (S)*: telocvične, posilňovňa, lezecká stena
-
-{{< /collapsible-section >}}
 
 {{< collapsible-section "Ako používať [votr](votr.uniba.sk)?" >}}
 [Votr](votr.uniba.sk) je zjednodušené a prehľadné rozhranie pre [AiS2](ais2.uniba.sk) vyvinuté študentmi FMFI. Prihlasuj sa s rovnakými údajmi ako do AiS2. Funguje aj na mobile. V ľavom menu nájdeš
@@ -45,35 +37,6 @@ Google Classroom síce nie je oficiálnym nástrojom UK, ale niektorí vyučujú
 {{< /collapsible-section >}}
 
 
-{{< collapsible-section "Načo je ISIC?" >}}
-ISIC je kombinovaný preukaz študenta: slúži ako preukaz, knižničný
-preukaz, dopravná karta, na zľavy v študentských jedálňach a je potrebný pre študentské zľavy (obchody, kiná a pod., pozri
-[isic.sk](https://isic.sk)).
-
-{{< /collapsible-section >}}
-
-
-{{< collapsible-section "Kde nájdem študentské jedálne?" >}}
-- *bufet FreeFOOD*: pavilón matematiky, na konci chodby,
-- *jedáleň FaynFOOD*: pavilón fyziky, pri fyzikálnom vchode,
-- *v blízkosti*: jedáleň v areáli internátov *Mlyny* Eat&Meet, jedáleň na *PriF UK*, jedáleň v areáli internátov Družba.
-
-Aktuálne jedálne lístky nájdeš na [tejto
-stránke](https://zona.fmph.uniba.sk/sluzby-a-administrativa/jedalne-listky/).
-
-
-{{< /collapsible-section >}}
-
-
-{{< collapsible-section "Ako získam prístup do fakultnej/univerzitnej knižnice?" >}}
-
-Fakultná knižnica *KEC* (Knižnično-edičné centrum) sa nachádza na -1. poschodí pavilónu I, vchod cez pavilón matematiky. Každý študent UK je pri zápise automaticky do knižnice zaregistrovaný, žiadny ďalší registračný formulár nie je potrebný a registrácia je bezplatná.
-
-Preukazom čitateľa je tvoj ISIC. Do online katalógu ([alis.uniba.sk](https://alis.uniba.sk)) a čitateľského konta sa prihlasuj číslom čipu (SNR) z ISIC preukazu, čo je zároveň číslo konta
-aj predvolené heslo. V tomto portáli si môžeš knihy zarezervovať a aj predlžovať výpožičku (max. dvakrát). Pokuta za oneskorené vrátenie je 0,50 €/knihu/deň.
-
-{{< /collapsible-section >}}
-
 {{< collapsible-section "Ako získam prístup k Wi-Fi sieti eduroam?" >}}
 
 Detailné návody, ako sa pripojiť k sieti eduroam nájdeš na stránke [uniba.sk/wifi](https://uniba.sk/wifi/).
@@ -93,3 +56,4 @@ Ak heslo zabudneš, navštív web
 hesla budeš potrebovať svoj dátum narodenia, číslo ISIC preukazu a mobil registrovaný v AiS, keďže nové heslo príde SMS-kou. Ak sa ti heslo nepodarí obnoviť, kontaktuj CePIT na (Centrum podpory informačných technológií) *02/59 244 944*.
 
 {{< /collapsible-section >}}
+

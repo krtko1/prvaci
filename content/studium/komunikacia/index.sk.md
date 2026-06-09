@@ -1,5 +1,5 @@
 +++
-title = 'Komunikácia'
+title = 'Komunikácia a pomoc'
 date = 2023-03-15T11:00:00-07:00
 draft = false
 summary = 'Tu nájdeš ako komunikovať s fakultou a nasmerovanie na rôzne krízové linky.'
@@ -54,11 +54,6 @@ Viac informácií a postup pri oznámení nájdeš na nasledujúcich webstránka
 - *Národná linka pre ženy* (násilie): tel.: 0800 212 212 (nonstop, bezplatná)
 - *Linka detskej dôvery*: **116 111**
 - polícia (158) a tiesňová linka (112)
-
-{{< /collapsible-section >}}
-
-
-{{< collapsible-section "Na koho sa môžem obrátiť s otázkou ohľadne práv študenta?" >}}
 
 {{< /collapsible-section >}}
 
