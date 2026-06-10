@@ -191,6 +191,7 @@ h6 {
 .content {
   font-family: "Roboto", system-ui, sans-serif;
   font-size: 1.05rem;
+  text-align: justify;
   line-height: 1.75;
   max-width: 70ch;
 }

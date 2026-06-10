@@ -1,0 +1,58 @@
+zapis:
+  datum_od: "2.9.2026"
+  datum_do: "4.9.2026"
+  miesto: "v posluchárni A"
+  link_harmonogram: "https://zona.fmph.uniba.sk/fileadmin/fmfi/studium/harmonogram-zapisu-2026.pdf"
+  
+  datum_nahradny: "17.9.2026"
+  miesto_nahradny: "v posluchárni A"
+
+  link_neplnolety_formular: "https://forms.office.com/"    # update
+  datum_do_neplnolety_formular: "??.9.2026"                    # update
+
+
+test_anj:
+  datum: "??.9.2026"                    # update
+  cas_od: "19:00"
+  cas_do: "20:00"
+  cas_vypracovanie: "35"
+  link: "https://forms.office.com/"    # update
+
+test_mat:
+  datum: "??.9.2026"                    # update
+  cas_od: "19:00"
+  cas_do: "20:00"
+  cas_vypracovanie: "80"
+  link: "https://forms.office.com/"    # update
+
+kurz_sj:   # update
+  datum_od: "??.8.2026"
+  datum_do: "??.9.2025"
+  miesto: "FMFI"
+
+bozp_opp:
+  datum_do: ??.9.2026                   # update
+
+navratka:
+  datum_do: "6.7.2026"
+  cena: "26€"
+  iban: "SK 95 8180 0000 0070 0013 8298"
+  variabilny_symbol: "261"
+  link_navod: "https://zona.fmph.uniba.sk/fileadmin/ruk/cit/ais/Prirucky/e-navratka.pdf"
+
+telesna:
+  link_prihlasovanie: "https://sites.google.com/view/zapisovanietvnafmfiukafmuk/z%C3%A1pis-tv-2025-zs/1-bc-ro%C4%8Dn%C3%ADk-fmfi-uk-%C5%A1tvrtok?authuser=0"
+  datum_prihlasovanie: "*zatiaľ neznámy*"
+  link_zoznam_sportov: "https://ktvs.fmph.uniba.sk/article_forms.php?section=5&article_id=646"
+
+internat:
+  datum_od_ziadost: "20.7.2026"
+  datum_do_ziadost: "31.7.2026"
+  datum_od_vyber: "12.8.2026"
+  datum_do_vyber: "14.8.2026"
+  datum_vyber_prvaci: "14.8.2026"
+  datum_pridelenie: "21.8.2026"
+  link_harmonogram: "https://uniba.sk/fileadmin/ruk/cit/e-ubytovanie/Harmonogram_26_27_sj.pdf"
+  link_sprievodca: "https://uniba.sk/fileadmin/ruk/cit/e-ubytovanie/Sprievodca_25.pdf#page=9"   # update, doesnt work
+  cena_predkaucia: "50€"
+  iban_predkaucia: "SK53 8180 0000 0070 0055 7900"

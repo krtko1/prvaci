@@ -8,12 +8,12 @@ weight = 1
 
 {{< collapsible-section "Potvrdenie elektronickej návratky a ISIC" >}}
 
-Aby si bol registrovaný ako študent, **musíš potvrdiť elektronickú návratku do 6.7.2026**. Návod, ako návratku potvrdiť, nájdeš na [tejto stránke](https://zona.fmph.uniba.sk/fileadmin/ruk/cit/ais/Prirucky/e-navratka.pdf). Tento proces bude od teba vyžadovať fotografiu tváre, čiže ju maj pripravenú. V procese potvrdzovania ti odporúčame si vybrať preukaz s vizuálom ISIC. 
+Aby si bol registrovaný ako študent, **musíš potvrdiť elektronickú návratku do {{< var "events.navratka.datum_do" >}}**. Návod, ako návratku potvrdiť, nájdeš na [tejto stránke]({{< var "events.navratka.link_navod" >}}). Tento proces bude od teba vyžadovať fotografiu tváre, čiže ju maj pripravenú. V procese potvrdzovania ti odporúčame si vybrať preukaz s vizuálom ISIC.
 
 Následne, aby ti mohol byť vystavený ISIC, musíš zaplatiť poplatok, ktorý by mal byť automaticky vygenerovaný v systéme [AiS2](ais2.uniba.sk), kde si vieš stiahnuť aj príkaz na úhradu. Pre úplnosť detaily pre zaplatenie poplatku za vystavenie ISIC-u uvedieme aj tu:
-- cena: 26€ (preukaz ISIC 7€, validačná známka 13€, režijné náklady 6€)
-- číslo účtu: SK 95 8180 0000 0070 0013 8298 
-- variabilný symbol (pre bakalárske štúdium): 261
+- cena: {{< var "events.navratka.cena" >}} (preukaz ISIC, validačná známka a režijné náklady)
+- číslo účtu:  {{< var "events.navratka.iban" >}}
+- variabilný symbol (pre bakalárske štúdium): {{< var "events.navratka.variabilny_symbol" >}}
 - špecifický symbol: rodné číslo bez lomky (ak si zo zahraničia a nemáš rodné číslo, ako ŠS uveď dvoj dátum narodenia vo formáte RRMMDD)
 - údaje pre platbu zo zahraničia
   - príjemca: Univerzita Komenského v Bratislave
@@ -31,7 +31,7 @@ Od momentu prijatia by mala tvoja e-mailová komunikácia s fakultou prebiehať 
 
 
 {{< collapsible-section "Školenia BOZP a OPP" >}}
-Školenia BOZP a OPP si **povinný** absolvovať do ??.8.2026. Tieto školenia budú dostupné online cez portál spoločnosti PROFIS, spol. s.r.o. Prihlasovacie údaje dostaneš v dostatočnom predstihu, ak sa tak nestalo (pozri si spam), kontaktuj <rostas@fmph.uniba.sk>. 
+Školenia BOZP a OPP si **povinný** absolvovať do {{< var "events.bozp_opp.datum_do" >}}. Tieto školenia budú dostupné online cez portál spoločnosti PROFIS, spol. s.r.o. Prihlasovacie údaje dostaneš v dostatočnom predstihu, ak sa tak nestalo (pozri si spam), kontaktuj <rostas@fmph.uniba.sk>. 
 
 Vytlačené potvrdenia o absolvovaní oboch školení si **musíš doniesť** na prezenčný zápis. V prípade, že si v danom termíne nestihol školenia absolvovať, bezodkladne kontaktuj <rostas@fmph.uniba.sk>.
 
@@ -40,7 +40,7 @@ Vytlačené potvrdenia o absolvovaní oboch školení si **musíš doniesť** na
 
 {{< collapsible-section "Test z anglického jazyka" >}}
 
-Online test z anglického jazyka bude prístupný ??.8.2026 od 19:00 do 20:00 na *tomto odkaze*. Na vypracovanie budeš mať maximálne 35 minút.
+Online test z anglického jazyka bude prístupný {{< var "events.test_anj.datum" >}} od {{< var "events.test_anj.cas_od" >}} do {{< var "events.test_anj.cas_do" >}} na [tomto odkaze]({{< var "events.test_anj.link" >}}). Na vypracovanie budeš mať maximálne {{< var "events.test_anj.cas_vypracovanie" >}} minút.
 
 Každý novoprijatý študent je **povinný** v tomto termíne absolvovať test z anglického jazyka pre zaradenie do študijnej skupiny. Test bude sprístupnený **iba** v   danom termíne, v prípade, že sa vtedy fakt nemôžeš pripojiť, obratom kontaktuj <rostas@fmph.uniba.sk>.
 {{< /collapsible-section >}}

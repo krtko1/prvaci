@@ -1,7 +1,7 @@
 {{ define "main" }}
   <section class="page-header">
     <nav class="breadcrumbs">
-      <a href="{{ site.Home.RelPermalink }}">Home</a>
+      <a href="{{ site.Home.RelPermalink }}">{{ i18n "home" }}</a>
     
       {{ range .Ancestors.Reverse }}
         {{ if not .IsHome }}

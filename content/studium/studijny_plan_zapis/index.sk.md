@@ -31,12 +31,12 @@ Konverzný program je štvorročný bakalársky program (240 kreditov namiesto �
 
 {{< collapsible-section "Ako si zapíšem predmety?" >}}
 
-Pre prvý ročník budeš mať zapísný list vytvorený na prezenčnom zápise (pozri časť návodu *Prezenčný zápis*). Môžeš ho upravovať v systéme [AiS2](ais2.uniba.sk) alebo [votr](votr.uniba.sk) (v sekcii *Zápis predmetov*), no v prvom ročníku ti neodporúčame robiť veľké zmeny. Drž sa zásady, že chceš získať približne 30 kreditov za semester.
+Pre prvý ročník budeš mať zapísný list vytvorený na prezenčnom zápise (pozri časť návodu [Prezenčný zápis](../zapis)). Môžeš ho upravovať v systéme [AiS2](https://ais2.uniba.sk) alebo [votr](https://votr.uniba.sk) (v sekcii *Zápis predmetov*), no v prvom ročníku ti neodporúčame robiť veľké zmeny. Drž sa zásady, že chceš získať približne 30 kreditov za semester.
 
 Všeobecne sa predmety zapisujú na celý rok pred začiatkom zimného
 semestra. Počas prvých dvoch týždňov každého semestra prebieha tzv. opravný zápis, kedy je možné zapísané predmety ešte zmeniť.
 
-Čo sa týka zápisu na predmety podľa vlastného výberu (mimo študijného plánu), aj tie sa zapisujú štandardne cez [AiS2](ais2.uniba.sk) alebo [votr](votr.uniba.sk) počas obdobia zápisov alebo v rámci opravného zápisu v prvých dvoch týždňoch semestra. Ak si chceš zapísať predmet na inej fakulte Univerzity Komenského (napr. jazyk na Filozofickej fakulte), je to možné, avšak fakulta dôrazne odporúča takýto krok vopred konzultovať s vyučujúcim daného predmetu
+Čo sa týka zápisu na predmety podľa vlastného výberu (mimo študijného plánu), aj tie sa zapisujú štandardne cez [AiS2](https://ais2.uniba.sk) alebo [votr](https://votr.uniba.sk) počas obdobia zápisov alebo v rámci opravného zápisu v prvých dvoch týždňoch semestra. Ak si chceš zapísať predmet na inej fakulte Univerzity Komenského (napr. jazyk na Filozofickej fakulte), je to možné, avšak fakulta dôrazne odporúča takýto krok vopred konzultovať s vyučujúcim daného predmetu
 alebo so študijným oddelením.
 
 Špecifiká pre medzifakultné študijné programy

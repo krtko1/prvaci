@@ -1,0 +1,12 @@
+{{- $path := split (.Get 0) "." -}}
+{{- $data := hugo.Data -}}
+
+{{- range $path -}}
+  {{- $data = index $data . -}}
+{{- end -}}
+
+{{ if $data }}
+  {{- printf "%s" $data -}}
+{{ else }}
+  {{ printf "[missing: %s]" (.Get 0) }}
+{{ end }}

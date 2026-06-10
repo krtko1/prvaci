@@ -7,8 +7,8 @@ weight = 4
 +++
 
 
-{{< collapsible-section "Ako používať [votr](votr.uniba.sk)?" >}}
-[Votr](votr.uniba.sk) je zjednodušené a prehľadné rozhranie pre [AiS2](ais2.uniba.sk) vyvinuté študentmi FMFI. Prihlasuj sa s rovnakými údajmi ako do AiS2. Funguje aj na mobile. V ľavom menu nájdeš
+{{< collapsible-section "Ako používať [votr](https://votr.uniba.sk)?" >}}
+[Votr](https://votr.uniba.sk) je zjednodušené a prehľadné rozhranie pre [AiS2](https://ais2.uniba.sk) vyvinuté študentmi FMFI. Prihlasuj sa s rovnakými údajmi ako do AiS2. Funguje aj na mobile. V ľavom menu nájdeš
 -   *prehľad štúdia*: akademický kalendár, zápisné listy,
 -   *moje predmety*: zapísané predmety a hodnotenia,
 -   *moje skúšky*: termíny skúšok, prihlasovanie a odhlasovanie.

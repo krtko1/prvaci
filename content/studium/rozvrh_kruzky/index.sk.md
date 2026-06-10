@@ -16,7 +16,7 @@ weight = 2
 
 {{< collapsible-section "Kde nájdem svoj rozvrh?" >}}
 
-Rozvrhy na fakulte fungujú primárne cez systém [candle](candle.fmph.uniba.sk), kde nájdeš rozvrhy pre každý krúžok podľa odporúčaného študijného plánu. V systéme [AiS2](ais2.uniba.sk) sa rozvrhy spravidla riešia pri predmetoch z iných fakúlt.
+Rozvrhy na fakulte fungujú primárne cez systém [candle](https://candle.fmph.uniba.sk), kde nájdeš rozvrhy pre každý krúžok podľa odporúčaného študijného plánu. V systéme [AiS2](https://ais2.uniba.sk) sa rozvrhy spravidla riešia pri predmetoch z iných fakúlt.
 
 {{< /collapsible-section >}}
 
@@ -30,7 +30,7 @@ Rozvrhy na fakulte fungujú primárne cez systém [candle](candle.fmph.uniba.sk)
 
 {{< collapsible-section "Prečo má Telesná výchova také veľké okno v rozvrhu?" >}}
 
-Rozvrh pre športové aktivity sa nenachádza v systéme Candle, ale na [stránke Katedry telesnej výchovy a športu](https://ktvs.fmph.uniba.sk/) (pozri časť návodu *Prihlasovanie na Telesnú výchovu*).
+Rozvrh pre športové aktivity sa nenachádza v systéme Candle, ale na [stránke Katedry telesnej výchovy a športu](https://ktvs.fmph.uniba.sk/) (pozri časť návodu [Prihlasovanie na Telesnú výchovu](../zapis/telesna)).
 
 {{< /collapsible-section >}}
 

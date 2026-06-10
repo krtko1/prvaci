@@ -10,13 +10,13 @@ Naša fakulta chce podporovať aj zdravý životný štýl popri štúdiu, preto
 
 {{< collapsible-section "Aké športy fakulta ponúka?" >}}
 
-Výber športov pre predmet Telesná výchova a šport je veľmi široký, kompletný zoznam nájdeš na [stránke KTVŠ](https://ktvs.fmph.uniba.sk/article_forms.php?section=5&article_id=646). Tiež, KTVŠ ponúka aj viacdňové športové kurzy v rámci predmetu *Kurz športov v prírode* (týmto predmetov sa nedajú nahradiť dve povinné predmety Telesná výchova a šport), pričom aktuálnu ponuku kurzov vždy nájdete, znova, na stránke [stránke KTVŠ](https://ktvs.fmph.uniba.sk/). 
+Výber športov pre predmet Telesná výchova a šport je veľmi široký, kompletný zoznam nájdeš na [tejto stránke]({{< var "events.telesna.link_zoznam_sportov" >}}). Tiež, KTVŠ ponúka aj viacdňové športové kurzy v rámci predmetu *Kurz športov v prírode* (týmto predmetov sa nedajú nahradiť dve povinné predmety Telesná výchova a šport), pričom aktuálnu ponuku kurzov vždy nájdete, znova, na stránke [stránke KTVŠ](https://ktvs.fmph.uniba.sk/). 
 
 {{< /collapsible-section >}}
 
 {{< collapsible-section "Ako sa prihlásiť na jednotlivé športy?" >}}
 
-Prvý ročník bakalárskeho štúdia sa prihlasuje na športy elektronicky, cez formuláre, ktoré nájdete na [tejto stránke](https://sites.google.com/view/zapisovanietvnafmfiukafmuk/z%C3%A1pis-tv-2025-zs/1-bc-ro%C4%8Dn%C3%ADk-fmfi-uk-%C5%A1tvrtok?authuser=0). Keď bude známy termín spustenia prihlasovania, bude sem pridaný. 
+Prvý ročník bakalárskeho štúdia sa prihlasuje na športy elektronicky, cez formuláre, ktoré nájdete na [tejto stránke]({{< var "events.telesna.link_prihlasovanie" >}}). Termín, kedy bude spustené prihlasovanie je {{< var "events.telesna.datum_prihlasovanie" >}}
 
 {{< /collapsible-section >}}
 

@@ -9,7 +9,7 @@ weight = 2
 Predtým, ako budete môcť využiť plný potenciál ISICu je potrebné ho aktivovať pre jeho funkčnosť ako preukazu študenta (navštevovanie knižnice, zľava na stravu, verejná doprava...).
 
 {{< collapsible-section "Kde si aktivujem ISIC?" >}}
-Aktivácia je možná v termináloch [fakultných](https://uniba.sk/o-univerzite/rektorat-uk/citps/preukazy/terminaly/) alebo [verejných](https://www.ubian.sk/preukaz-studenta). Aktivácia plnej funkčnosti (napr. pre verejnú dopravu) môže trvať až do 24 hodín. V prípade, že ani po 24 hodinách ISIC nebude aktívny (zistíte napr. tak, že si nebudete môcť vybaviť zľavu na verejnú dopravu), kontaktuje študijné oddelenie UK (vašu študijnú referentku, pozri návod *Štúdium*).
+Aktivácia je možná v termináloch [fakultných](https://uniba.sk/o-univerzite/rektorat-uk/citps/preukazy/terminaly/) alebo [verejných](https://www.ubian.sk/preukaz-studenta). Aktivácia plnej funkčnosti (napr. pre verejnú dopravu) môže trvať až do 24 hodín. V prípade, že ani po 24 hodinách ISIC nebude aktívny (zistíte napr. tak, že si nebudete môcť vybaviť zľavu na verejnú dopravu), kontaktuje študijné oddelenie UK (vašu študijnú referentku, pozri návod [Štúdium](../studium/komunikacia)).
 {{< /collapsible-section >}}
 
 {{< collapsible-section "Ako získam zľavu na verejnú dopravu?" >}}

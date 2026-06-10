@@ -8,7 +8,7 @@ weight = 2
 
 Katedra jazykovej prípravy FMFI UK ponúka zahraničným študentom intenzívny trojtýždňový kurz slovenského jazyka. Kurz je určený študentom, ktorí ovládajú základy slovenského jazyka (CEFR úroveň minimálne A2). Študenti budú zaradení do kurzu na základe výsledkov zaraďovacieho testu. Kurz sa vyučuje v slovenčine.
 
-Termín kurzu je od ??.8.2026 do ??.9.2025 a bude sa konať *na fakulte*.
+Termín kurzu je od {{< var "events.kurz_sj.datum_od" >}} do {{< var "events.kurz_sj.datum_do" >}} a bude sa konať na {{< var "events.kurz_sj.miesto" >}}.
 
 {{< collapsible-section "Aká je úroveň a zameranie kurzu?" >}}
 

@@ -11,7 +11,7 @@ weight = 5
 
 - *dekanát a pavilón F1* (hlavný vchod, Mlynská dolina) -- sekretariát dekana, dekanát, fyzikálne katedry, posluchárne F1, F2
 - *pavilón matematiky (M)*: **študijné oddelenie**, matematické a informatické katedry, na chodbe do pavilónu F1 sú posluchárne A, B, C
-- *pavilón informatiky (I)*: fakultná knižnica na $-1$. poschodí (vchod cez pavilón M)
+- *pavilón informatiky (I)*: fakultná knižnica na -1. poschodí (vchod cez pavilón M)
 - *pavilón športu (S)*: telocvične, posilňovňa, lezecká stena
 
 {{< /collapsible-section >}}
@@ -20,8 +20,7 @@ weight = 5
 
 {{< collapsible-section "Načo je ISIC?" >}}
 ISIC je kombinovaný preukaz študenta: slúži ako preukaz, knižničný
-preukaz, dopravná karta, na zľavy v študentských jedálňach a je potrebný pre študentské zľavy (obchody, kiná a pod., pozri
-[isic.sk](https://isic.sk)).
+preukaz, dopravná karta, na zľavy v študentských jedálňach a je potrebný pre študentské zľavy (obchody, kiná a pod., pozri [isic.sk](https://isic.sk)). Pre aktiváciu akciu pozri návod [Aktivácia ISICu](../zapis/isic).
 
 {{< /collapsible-section >}}
 
@@ -29,7 +28,7 @@ preukaz, dopravná karta, na zľavy v študentských jedálňach a je potrebný 
 {{< collapsible-section "Kde nájdem študentské jedálne?" >}}
 - *bufet FreeFOOD*: pavilón matematiky, na konci chodby,
 - *jedáleň FaynFOOD*: pavilón fyziky, pri fyzikálnom vchode,
-- *v blízkosti*: jedáleň v areáli internátov *Mlyny* Eat&Meet, jedáleň na *PriF UK*, jedáleň v areáli internátov Družba.
+- *v blízkosti*: jedáleň v areáli internátov Mlyny Eat&Meet, jedáleň na PriF UK, jedáleň v areáli internátov Družba.
 
 Aktuálne jedálne lístky nájdeš na [tejto
 stránke](https://zona.fmph.uniba.sk/sluzby-a-administrativa/jedalne-listky/).
