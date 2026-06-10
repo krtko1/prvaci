@@ -2,7 +2,7 @@
 title = 'IT služby a systémy'
 date = 2023-03-15T11:00:00-07:00
 draft = false
-summary = 'Čo je [votr](votr.uniba.sk), ako sa prihlásiŤ na Wi-Fi, aké systémy sa používajú na predmetoch...'
+summary = 'Čo je votr, ako sa prihlásiť na Wi-Fi, aké systémy sa používajú na predmetoch...'
 +++
 
 

@@ -236,11 +236,8 @@ h6 {
 }
 
 .card__title {
-  margin: 0;
-}
-
-.card__title a {
   color: var(--text);
+  margin: 0;
 }
 
 .card__summary {
