@@ -1,5 +1,16 @@
 {{ define "main" }}
   <section class="page-header">
+    <nav class="breadcrumbs">
+      <a href="{{ site.Home.RelPermalink }}">Home</a>
+    
+      {{ range .Ancestors.Reverse }}
+        {{ if not .IsHome }}
+          › <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+        {{ end }}
+      {{ end }}
+    
+      › <span>{{ .LinkTitle }}</span>
+    </nav>
     <h1 class="page-title">{{ .Title }}</h1>
     {{ with .Content }}
       <div class="content">

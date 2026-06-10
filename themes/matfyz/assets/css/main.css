@@ -2,6 +2,7 @@
 @import "components/menu.css";
 @import "components/footer.css";
 @import "components/collapsible-section.css";
+@import "components/breadcrumbs.css";
 
 
 @font-face {
