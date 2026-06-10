@@ -1,8 +1,9 @@
 +++
 title = 'Užitočné informácie'
-date = 2023-03-15T11:00:00-07:00
+date = 2026-06-08T00:00:00+01:00
 draft = false
 summary = 'Orientácia na fakulte, jedálne, knižnica, načo ti je ISIC...'
+weight = 5
 +++
 
 

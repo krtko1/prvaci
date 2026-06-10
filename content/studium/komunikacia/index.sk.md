@@ -1,8 +1,9 @@
 +++
 title = 'Komunikácia a pomoc'
-date = 2023-03-15T11:00:00-07:00
+date = 2026-06-08T00:00:00+01:00
 draft = false
 summary = 'Tu nájdeš ako komunikovať s fakultou a nasmerovanie na rôzne krízové linky.'
+weight = 6
 +++
 
 

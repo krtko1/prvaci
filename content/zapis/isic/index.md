@@ -1,8 +1,9 @@
 +++
 title = 'Aktivácia ISICu'
-date = 2023-03-15T11:00:00-07:00
+date = 2026-06-08T00:00:00+01:00
 draft = false
 summary = 'Ako si aktivovať ISIC'
+weight = 2
 +++
 
 Predtým, ako budete môcť využiť plný potenciál ISICu je potrebné ho aktivovať pre jeho funkčnosť ako preukazu študenta (navštevovanie knižnice, zľava na stravu, verejná doprava...).

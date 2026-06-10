@@ -1,8 +1,9 @@
 +++
 title = 'IT služby a systémy'
-date = 2023-03-15T11:00:00-07:00
+date = 2026-06-08T00:00:00+01:00
 draft = false
 summary = 'Čo je votr, ako sa prihlásiť na Wi-Fi, aké systémy sa používajú na predmetoch...'
+weight = 4
 +++
 
 

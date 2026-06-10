@@ -1,8 +1,9 @@
 +++
 title = 'Detaily zápisu'
-date = 2023-03-15T11:00:00-07:00
+date = 2026-06-08T00:00:00+01:00
 draft = false
 summary = 'Všetky detaily o prebehu zápisu na fakulte'
+weight = 1
 +++
 
 {{< collapsible-section "Ako prebieha deň zápisu?" >}}
