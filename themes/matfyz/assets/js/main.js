@@ -34,3 +34,27 @@ if (document.readyState === "loading") {
 } else {
   initMenu();
 }
+
+
+/* Automatic closing of collapsible sections, so that only one is open (slightly laggy) */
+document.querySelectorAll('.collapsible-section').forEach(details => {
+  details.addEventListener('toggle', function () {
+    if (!this.open) return;
+
+    const oldTop = this.getBoundingClientRect().top;
+
+    document.querySelectorAll('.collapsible-section[open]').forEach(other => {
+      if (other !== this) {
+        other.open = false;
+      }
+    });
+
+    const newTop = this.getBoundingClientRect().top;
+
+    window.scrollBy({
+      top: newTop - oldTop,
+      left: 0,
+      behavior: 'instant'
+    });
+  });
+});
