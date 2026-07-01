@@ -1,5 +1,5 @@
 +++
-title = 'Dokumenty, povinnosti, zmena študijného programu'
+title = 'Dokumenty, povinnosti'
 date = 2026-06-08T00:00:00+01:00
 draft = false
 summary = 'Dôležitá stránka o tom, na čo by si mal myslieť po prijatí na FMFI'
@@ -40,15 +40,11 @@ Vytlačené potvrdenia o absolvovaní oboch školení si **musíš doniesť** na
 
 {{< collapsible-section "Test z anglického jazyka" >}}
 
-Online test z anglického jazyka bude prístupný {{< var "events.test_anj.datum" >}} od {{< var "events.test_anj.cas_od" >}} do {{< var "events.test_anj.cas_do" >}} na [tomto odkaze]({{< var "events.test_anj.link" >}}). Na vypracovanie budeš mať maximálne {{< var "events.test_anj.cas_vypracovanie" >}} minút.
+Online test z anglického jazyka bude prístupný {{< var "events.test_anj.datum" >}} od {{< var "events.test_anj.cas_od" >}} do {{< var "events.test_anj.cas_do" >}} na [tomto odkaze]({{< var "events.test_anj.link" >}}). Na vypracovanie budeš mať maximálne {{< var "events.test_anj.cas_vypracovanie" >}} minút. Test bude sprístupnený **iba** v danom termíne, v prípade, že sa vtedy fakt nemôžeš pripojiť, obratom kontaktuj <rostas@fmph.uniba.sk>.
 
-Každý novoprijatý študent je **povinný** v tomto termíne absolvovať test z anglického jazyka pre zaradenie do študijnej skupiny. Test bude sprístupnený **iba** v   danom termíne, v prípade, že sa vtedy fakt nemôžeš pripojiť, obratom kontaktuj <rostas@fmph.uniba.sk>.
-{{< /collapsible-section >}}
+Každý novoprijatý študent je **povinný** v tomto termíne absolvovať test z anglického jazyka. Predmet Anglický jazyk (4) je povinným predmetom pre každý študijný program, no fakulta ponúka aj výberové (voliteľné) predmety Anglický jazyk (1) až (3). Pre študentov s lepším výsledkom z online testu z anglického sa odporúča absolvovať predmet Anglický jazyk (1) pred povinným Anglickým jazykom (4) a v prípade horšieho výsledku sa odporúča študentom absolvovať všetky štyri predmety (po poradí) počas prvých dvoch rokov štúdia.
 
-
-{{< collapsible-section "Čo ak chcem študovať iný program, než na ktorý ma prijali?" >}}
-
-Pred začiatkom akademického roka (zimného semestra) môžeš požiadať o zmenu študijného programu, ale iba v rámci študijného odboru, na ktorý si bol prijatý (matematika, informatika, fyzika). Pre viac informácií kontaktuj garanta svojho študijného programu (nájdeš na stránke pre [stránke pre bakalárske štúdium](https://fmph.uniba.sk/studium/bakalarske-studium/)) alebo pani prodekanku na adrese <rostas@fmph.uniba.sk>.
+Takisto, pre študijné programy s veľa študentami sa online test z anglického jazyka používa na zaradenie do študijných skupín (krúžkov) a výsledok sa tiež používa na vytvorenie skupín s podobnými vedomosťami pre potreby výučby predmetu Anglický jazyk.
 
 {{< /collapsible-section >}}
 

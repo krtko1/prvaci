@@ -29,7 +29,8 @@ Na prezenčný zápis príď iba v čase a dátume určeného pre teba (viď [ha
 
 {{< collapsible-section "Na zápise som dostal zápisný list, čo to je?" >}}
 
-V rámci zápisu ti bude vytvorený zápisný list, pozostávajúci z povinných predmetov pre prvý ročník (označenie A) tvojho študijného programy a dvoch kurzov Anglického jazyka. Tento zápisný list môžeš meniť, aj počas prvých dvoch týždňov každého semestra (tzv. opravný zápis) cez [AiS2](https://ais2.uniba.sk) alebo nadstavbu [votr](https://votr.uniba.sk).
+V rámci zápisu ti bude vytvorený zápisný list, pozostávajúci z povinných predmetov pre prvý ročník (označenie A alebo P) tvojho študijného programy a dvoch kurzov Anglického jazyka. Tento zápisný list môžeš meniť počas prvých dvoch týždňov každého semestra (tzv. opravný zápis) cez [AiS2](https://ais2.uniba.sk) alebo nadstavbu [votr](https://votr.uniba.sk).
 
-Neodporúčame však robiť zásadné zmeny v zápisnom liste. V prípade potreby zváž najmä pridanie povinne voliteľných predmetov (označenie B) zo študijného plánu, ak v aktuálnom zápisnom liste máš navolených menej ako približne 30 kreditov za semester.
+Neodporúčame však robiť zásadné zmeny v zápisnom liste. V prípade potreby zváž najmä zapísanie voliteľných (označenie C alebo V) zo študijného plánu, ak v aktuálnom zápisnom liste máš navolených menej ako približne 30 kreditov za semester. Vo voliteľných predmetoch sa často nachádzajú doplnkové cvičenia k povinným predmetom, ktoré v svojom rozsahu cvičenia nemajú. Tieto predmety veľmi odporúčame zvážiť. Samozrejme, ak tvoj študijný program ponúka aj povinne voliteľné predmety (označenie B alebo PV) pre prvý ročník a pozdávajú sa ti (a nevzdiališ sa tým príliš od približne 30 kreditov za semester), môžeš zvážiť zápis aj niektorého z nich.
+
 {{< /collapsible-section >}}
