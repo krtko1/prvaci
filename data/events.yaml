@@ -1,15 +1,11 @@
 zapis:
   datum_od: "2.9.2026"
   datum_do: "4.9.2026"
-  miesto: "v posluchárni A"
+  miesto: "A"
   link_harmonogram: "https://zona.fmph.uniba.sk/fileadmin/fmfi/studium/harmonogram-zapisu-2026.pdf"
   
   datum_nahradny: "17.9.2026"
-  miesto_nahradny: "v posluchárni A"
-
-  link_neplnolety_formular: "https://forms.office.com/"    # update
-  datum_do_neplnolety_formular: "??.9.2026"                    # update
-
+  miesto_nahradny: "A"
 
 test_anj:
   datum: "??.9.2026"                    # update
@@ -18,12 +14,6 @@ test_anj:
   cas_vypracovanie: "35"
   link: "https://forms.office.com/"    # update
 
-test_mat:
-  datum: "??.9.2026"                    # update
-  cas_od: "19:00"
-  cas_do: "20:00"
-  cas_vypracovanie: "80"
-  link: "https://forms.office.com/"    # update
 
 kurz_sj:   # update
   datum_od: "??.8.2026"
@@ -42,7 +32,6 @@ navratka:
 
 telesna:
   link_prihlasovanie: "https://sites.google.com/view/zapisovanietvnafmfiukafmuk/z%C3%A1pis-tv-2025-zs/1-bc-ro%C4%8Dn%C3%ADk-fmfi-uk-%C5%A1tvrtok?authuser=0"
-  datum_prihlasovanie: "*zatiaľ neznámy*"
   link_zoznam_sportov: "https://ktvs.fmph.uniba.sk/article_forms.php?section=5&article_id=646"
 
 internat:

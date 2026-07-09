@@ -16,18 +16,12 @@ Výber športov pre predmet Telesná výchova a šport je veľmi široký, kompl
 
 {{< collapsible-section "Ako sa prihlásiť na jednotlivé športy?" >}}
 
-Prvý ročník bakalárskeho štúdia sa prihlasuje na športy elektronicky, cez formuláre, ktoré nájdete na [tejto stránke]({{< var "events.telesna.link_prihlasovanie" >}}). Termín, kedy bude spustené prihlasovanie je {{< var "events.telesna.datum_prihlasovanie" >}}
-
-{{< /collapsible-section >}}
-
-{{< collapsible-section "Prečo má v rozvrhu telesná výchova také veľké okno?" >}}
-
-Nie všetky športy môžu prebiehať naraz v rámci jedného bloku. Preto máš v rozvrhu rezervované veľké okno pre telesnú výchovu, aby nevznikali konflikty s inými predmetmi, ale v skutočnosti budeš chodiť iba na 60 minút vyhradených pre tvoj šport. Konkrétny čas, kedy sa koná tvoj šport, nájdeš včas na [stránke KTVŠ](https://ktvs.fmph.uniba.sk/).
+Prvý ročník bakalárskeho štúdia sa prihlasuje na športy elektronicky, cez formuláre, ktoré nájdete na [tejto stránke]({{< var "events.telesna.link_prihlasovanie" >}}). Termín spustenia prihlasovania sa dozvieš na prezenčnom zápise.
 
 {{< /collapsible-section >}}
 
 {{< collapsible-section "Viem v letnom semestri navštevovať iný šport, ako v zimnom?" >}}
 
-Áno. Vyučujúci telesnej výchovy predpokladajú pokračovanie v rovnakom športe, ale stačí ich kontaktovať a zmeniť šport, ak to kapacity dovoľujú, nie je problém.
+Áno. Vyučujúci telesnej výchovy predpokladajú pokračovanie v rovnakom športe, ale stačí ich kontaktovať a zmeniť šport. Ak to kapacity dovoľujú, nie je problém.
 
 {{< /collapsible-section >}}
