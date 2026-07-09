@@ -27,7 +27,11 @@ Konverzný program je štvorročný bakalársky program (240 kreditov namiesto �
 
 {{< /collapsible-section >}}
 
+{{< collapsible-section "Môžem prestúpiť z klasického programu na konverzný program?" >}}
 
+Áno, počas prvých štyroch týždňov štúdia môžeš zmeniť štandardnú formu štúdia na konverznú (ak to tvoj študijný program ponúka). Pre viac informácií kontaktuj garanta tvojho študijného programu (nájdeš na stránke pre [bakalárske štúdium](https://fmph.uniba.sk/studium/bakalarske-studium/) alebo pani prodekanku na adrese <rostas@fmph.uniba.sk>). 
+
+{{< /collapsible-section >}}
 
 {{< collapsible-section "Ako si zapíšem predmety?" >}}
 

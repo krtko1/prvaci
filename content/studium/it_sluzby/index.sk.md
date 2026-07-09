@@ -46,15 +46,18 @@ Detailné návody, ako sa pripojiť k sieti eduroam nájdeš na stránke [uniba.
 
 {{< collapsible-section "Ako si zmením heslo do AiS?" >}}
 
-Heslo k študentskému kontu si vieš zmeniť cez portál [identity.uniba.sk](https://identity.uniba.sk/change)
+Heslo k študentskému kontu si vieš zmeniť cez portál [identity.uniba.sk](https://identity.uniba.sk)
 
 {{< /collapsible-section >}}
 
 {{< collapsible-section "Zabudol som heslo do AiS, čo teraz?" >}}
 
-Ak heslo zabudneš, navštív web
-[cdo.uniba.sk](https://cdo.uniba.sk/public/resetPass). Pre obnovenie
-hesla budeš potrebovať svoj dátum narodenia, číslo ISIC preukazu a mobil registrovaný v AiS, keďže nové heslo príde SMS-kou. Ak sa ti heslo nepodarí obnoviť, kontaktuj CePIT na (Centrum podpory informačných technológií) *02/59 244 944*.
+Ak heslo zabudneš, navštív web [identity.uniba.sk](https://identity.uniba.sk). Pre obnovenie hesla budeš potrebovať svoe rodné číslo, číslo ISIC preukazu a telefónne číslo registrované v AiS, keďže nové heslo príde SMS-kou. Ak sa ti heslo nepodarí obnoviť, kontaktuj CePIT na (Centrum podpory informačných technológií) buď na telefónnom čísle  02/9010 4444 alebo na e-mail <cepit@uniba.sk>.
 
 {{< /collapsible-section >}}
 
+{{< collapsible-section "Ďalšie odkazy" >}}
+
+Portál [moja.uniba.sk](https://moja.uniba.sk/) spája odkazy k väčšine elektronických služieb Univerzity Komenského. Nájdeš tu odkazy na AiS2, univerzitný e-mail, e-peňaženku, správu hesla a ďalšie užitočné IT služby.
+
+{{< /collapsible-section >}}

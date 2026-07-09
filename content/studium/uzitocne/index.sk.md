@@ -16,11 +16,17 @@ weight = 5
 
 {{< /collapsible-section >}}
 
+{{< collapsible-section "Mapa fakulty" >}}
 
+![Description](/images/mapa_fmfi_web.jpg)
 
-{{< collapsible-section "Načo je ISIC?" >}}
-ISIC je kombinovaný preukaz študenta: slúži ako preukaz, knižničný
-preukaz, dopravná karta, na zľavy v študentských jedálňach a je potrebný pre študentské zľavy (obchody, kiná a pod., pozri [isic.sk](https://isic.sk)). Pre aktiváciu akciu pozri návod [Aktivácia ISICu](../zapis/isic).
+{{< /collapsible-section >}}
+
+{{< collapsible-section "Načo slúži ISIC?" >}}
+
+ISIC je kombinovaný preukaz študenta: slúži na preukázanie statusu študenta (často uznávaný aj v zahraničí), knižničný preukaz, dopravná karta a používa sa aj na uplatnenie zliav v študentských jedálňach. Zároveň je potrebný na využívanie mnohých študentských zliav na Slovensku aj v zahraničí, napríklad v obchodoch, kinách, múzeách, pri cestovaní, ubytovaní či na rôzne softvérové a online služby (pozri [isic.sk](https://isic.sk)).
+
+ISIC je však potrebné si po zápise aktivovať. Viac informácii o aktivácii preukazu a o zľavách na dopravu nájdeš v návode [Zápís; Aktivácia ISIC-u](../zapis/isic).
 
 {{< /collapsible-section >}}
 
@@ -41,7 +47,8 @@ stránke](https://zona.fmph.uniba.sk/sluzby-a-administrativa/jedalne-listky/).
 
 Fakultná knižnica *KEC* (Knižnično-edičné centrum) sa nachádza na -1. poschodí pavilónu I, vchod cez pavilón matematiky. Každý študent UK je pri zápise automaticky do knižnice zaregistrovaný, žiadny ďalší registračný formulár nie je potrebný a registrácia je bezplatná.
 
-Preukazom čitateľa je tvoj ISIC. Do online katalógu ([alis.uniba.sk](https://alis.uniba.sk)) a čitateľského konta sa prihlasuj číslom čipu (SNR) z ISIC preukazu, čo je zároveň číslo konta
-aj predvolené heslo. V tomto portáli si môžeš knihy zarezervovať a aj predlžovať výpožičku (max. dvakrát). Pokuta za oneskorené vrátenie je 0,50 €/knihu/deň.
+Preukazom čitateľa je tvoj ISIC. Do online katalógu ([alis.uniba.sk](https://alis.uniba.sk)) a čitateľského konta sa prihlasuj číslom čipu (SNR) z ISIC preukazu, čo je zároveň číslo konta aj predvolené heslo. V tomto portáli si môžeš knihy zarezervovať a aj predlžovať výpožičku (max. raz). Pokuta za oneskorené vrátenie je 0,50 €/knihu/deň.
+
+Ďalšie informácie napríklad o tom, ako prebieha výpožička knihy online alebo osobne nájdeš vo videu [Knižnica FMFI UK](https://www.youtube.com/watch?v=7h3Kg0KofuQ).
 
 {{< /collapsible-section >}}

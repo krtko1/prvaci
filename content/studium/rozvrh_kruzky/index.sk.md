@@ -28,9 +28,9 @@ Rozvrhy na fakulte fungujú primárne cez systém [candle](https://candle.fmph.u
 {{< /collapsible-section >}}
 
 
-{{< collapsible-section "Prečo má Telesná výchova také veľké okno v rozvrhu?" >}}
+{{< collapsible-section "Prečo má v rozvrhu telesná výchova také veľké okno?" >}}
 
-Rozvrh pre športové aktivity sa nenachádza v systéme Candle, ale na [stránke Katedry telesnej výchovy a športu](https://ktvs.fmph.uniba.sk/) (pozri časť návodu [Prihlasovanie na Telesnú výchovu](../zapis/telesna)).
+Nie všetky športy môžu prebiehať naraz v rámci jedného hodinového bloku. Preto máš v rozvrhu rezervované väčšie okno pre telesnú výchovu, aby nevznikali konflikty s inými predmetmi, ale v skutočnosti budeš chodiť iba na 60 minút vyhradených pre tvoj šport. Konkrétny čas, kedy sa koná tvoj šport, nájdeš včas na [stránke KTVŠ](https://ktvs.fmph.uniba.sk/).
 
 {{< /collapsible-section >}}
 
