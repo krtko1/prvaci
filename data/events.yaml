@@ -7,18 +7,8 @@ zapis:
   datum_nahradny: "17.9.2026"
   miesto_nahradny: "A"
 
-test_anj:
-  datum: "??.9.2026"                    # update
-  cas_od: "19:00"
-  cas_do: "20:00"
-  cas_vypracovanie: "35"
-  link: "https://forms.office.com/"    # update
-
-
-kurz_sj:   # update
-  datum_od: "??.8.2026"
-  datum_do: "??.9.2025"
-  miesto: "FMFI"
+kurz_sj:   
+  link: https://zona.fmph.uniba.sk/studenti-a-studium/novoprijatym-studentom/
 
 bozp_opp:
   datum_do: ??.9.2026                   # update
