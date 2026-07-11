@@ -1,5 +1,8 @@
 {{ define "main" }}
   <section class="page-header">
+    <nav class="breadcrumbs">
+      <span>{{ i18n "home" }}</span>
+    </nav>
     <h1 class="page-title">{{ site.Title }}</h1>
     {{ with .Content }}
       <div class="content">

@@ -4,12 +4,26 @@
     <span class="brand__text">{{ site.Title }}</span>
   </a>
   <div class="site-header__nav">
-    <div class="lang-switch" aria-label="Language">
-      {{ $currentLang := site.Language.Lang }}
-      {{ range site.Home.AllTranslations }}
-        <a class="lang-switch__link {{ if eq .Lang $currentLang }}is-active{{ end }}" href="{{ .RelPermalink }}">{{ .Language.Label }}</a>
-      {{ end }}
+    <div class="lang-switch">
+      {{ $currentLang := site.Language.Lang | upper }}
+    
+      <details class="lang-dropdown">
+        <summary>
+          {{ site.Language.Label }}
+        </summary>
+    
+        <div class="lang-dropdown__menu">
+          {{ range site.Home.AllTranslations }}
+            {{ if ne .Lang $currentLang }}
+              <a class="lang-switch__link" href="{{ .RelPermalink }}">
+                {{ .Language.Label }}
+              </a>
+            {{ end }}
+          {{ end }}
+        </div>
+      </details>
     </div>
+    
     <button class="menu-toggle" type="button" data-menu-toggle aria-controls="site-menu" aria-expanded="false">
       <span class="menu-toggle__icon" aria-hidden="true"></span>
     </button>

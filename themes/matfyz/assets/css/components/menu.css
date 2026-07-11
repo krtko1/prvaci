@@ -54,7 +54,7 @@
   opacity: 0.8;
   color: var(--white);
   font: inherit;
-  font-size: 1.7em; /* scales with text */
+  font-size: 1.7em; 
   letter-spacing: inherit;
   text-transform: inherit;
 }
