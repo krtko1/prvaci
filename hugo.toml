@@ -3,6 +3,7 @@ title = 'FMFI návody'
 theme = 'matfyz'
 defaultContentLanguage = 'sk'
 defaultContentLanguageInSubdir = true
+enableGitInfo = true
 
 [languages]
   [languages.sk]

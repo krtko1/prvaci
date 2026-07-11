@@ -1,6 +1,33 @@
 <div class="site-footer__inner container">
+  <!--
   <div class="site-footer__branding">
     <img class="footer-logo" src="{{ "logos/UK-logo.svg" | relURL }}" alt="UK logo">
   </div>
-  <p class="site-footer__copy">Copyright {{ now.Year }}. All rights reserved.</p>
+  -->
+
+  <div class="site-footer__content">
+    <p class="site-footer__text">
+      {{ i18n "footerTextContact" | safeHTML }}
+    </p>
+
+    <div class="site-footer__updates">
+      <p class="site-footer__update">
+        {{ $latest := now }}
+        {{ range .Site.RegularPages }}
+          {{ if gt .Lastmod $latest }}
+            {{ $latest = .Lastmod }}
+          {{ end }}
+        {{ end }}
+        {{ i18n "footerTextWebUpdate"}}: {{ $latest.Format "2.1.2006" }}
+      </p>
+
+      <p class="site-footer__update">
+        {{ i18n "footerTextPageUpdate"}}: {{ .Lastmod.Format "2.1.2006" }}
+      </p>
+    </div>
+  </div>
+
+  <p class="site-footer__copy">
+    Copyright © UK {{ now.Year }}. All rights reserved.
+  </p>
 </div>

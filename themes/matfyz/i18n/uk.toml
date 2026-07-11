@@ -12,3 +12,12 @@ other = "Меню"
 
 [close]
 other = "Закрити"
+
+[footerText]
+other = "Якщо ви не знайшли відповіді на свої запитання, перегляньте факультетський розділ <a href=https://zona.fmph.uniba.sk/studenti-a-studium/casto-kladene-otazky/>частих запитань</a> або напишіть нам на <a href=mailto:mentori@fmph.uniba.sk>mentori@fmph.uniba.sk</a>"
+
+[footerTextWebUpdate]
+other = "Сайт оновлено"
+
+[footerTextPageUpdate]
+other = "Розділ оновлено"
