@@ -1,10 +1,11 @@
 +++
 title = 'Prezenčný zápis'
-date = 2023-03-15T11:00:00-07:00
+date = 2026-06-08T00:00:00+01:00
 draft = false
 summary = 'Všetky informácie o prezenčnom zápise a o súvisiacich témach (ISIC, telesná...).'
+weight = 3
 +++
 
-Účasť na prezenčnom zápise je **povinná**. Koná sa od ??.9.2026 do ??.9.2026 v posluchárni A. Každý študent má vyhradený práve jeden deň; viď *harmonogram*.
+Účasť na prezenčnom zápise je **povinná**. Koná sa od {{< var "events.zapis.datum_od" >}} do {{< var "events.zapis.datum_do" >}} v posluchárni {{< var "events.zapis.miesto" >}}. Každý študent má vyhradený práve jeden deň; viď [harmonogram]({{< var "events.zapis.link_harmonogram" >}}).
 
-Náhradný zápis sa koná *2 týždne neskôr*.
+V prípade, že sa v stanovenom termíne nevieš dostaviť, napíš v dostatočnom predstihu e-mail na adresu <rostas@fmph.uniba.sk>. Náhradný zápis sa koná {{< var "events.zapis.datum_nahradny" >}} v posluchárni {{< var "events.zapis.miesto_nahradny" >}}.

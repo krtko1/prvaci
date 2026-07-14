@@ -1,46 +1,39 @@
 +++
 title = 'Intenzívny kurz slovenského jazyka'
-date = 2023-03-15T11:00:00-07:00
+date = 2026-06-08T00:00:00+01:00
 draft = false
 summary = 'Všetko, čo potrebuješ vedieť o predsemestrovom kurze slovenského jazyka'
+weight = 2
 +++
 
 Katedra jazykovej prípravy FMFI UK ponúka zahraničným študentom intenzívny trojtýždňový kurz slovenského jazyka. Kurz je určený študentom, ktorí ovládajú základy slovenského jazyka (CEFR úroveň minimálne A2). Študenti budú zaradení do kurzu na základe výsledkov zaraďovacieho testu. Kurz sa vyučuje v slovenčine.
 
-Termín kurzu je od ??.8.2026 do ??.9.2025 a bude sa konať *na fakulte*.
+Termín kurzu bude zverejnený na [tejto stránke]({{< var "events.kurz_sj.link" >}}) (približný čas konania je na prelome augusta a septembra) a bude sa konať na fakulte. Pre bližšie informácie o tom, ako sa na kurz prihlásiť, sleduj e-maily od fakulty.
 
 {{< collapsible-section "Aká je úroveň a zameranie kurzu?" >}}
 
-Fakulta otvára dve úrovne kurzov zamerané na rozvoj všetkých štyroch jazykových zručností (čítanie, písanie, počúvanie a hovorenie).
-- *začiatočníci*: určené pre úplných nováčikov bez predchádzajúcich znalostí
-- *stredne pokročilí*: pre študentov, ktorí už majú základy jazyka, musíš mať schopnosť tvoriť základné vety v prítomnom čase a základnú slovnú zásobu (znalosť skloňovania a časovania je výhodou)
-
-Kurzy sú primárne určené pre študentov, ktorí sa nezúčastnili intenzívnej letnej školy slovenského jazyka, alebo pre študentov z neslovanského prostredia. Študenti s akýmkoľvek slovanským jazykovým
-zázemím sa musia povinne prihlásiť na stredne pokročilú úroveň.
+Kurz je určený pre zahraničných študentov, ktorý ovládajú slovenčinu aspoň na úrovni A2. Fakulta ho ponúka s cieľom uľahčiť zahraničným študentom komunikáciu počas štúdia a zjednodušiť participáciu na prednáškach v slovenskom jazyku. Kurz sa zameriava najmä na rozvoj jazykových zručností potrebných pre štúdium na vysokej škole a v bežnej komunikácii.
 
 {{< /collapsible-section >}}
 
 
 {{< collapsible-section "Má kurz obmedzenú kapacitu?" >}}
 
-Miesta sú obmedzené na 15 účastníkov na kurz, aby sa zabezpečila aktívna participácia.
+Tento rok budú otvorené 4 krúžky s kapacitou približne 20 až 25 študentov.
 
 {{< /collapsible-section >}}
 
 
-{{< collapsible-section "Aké sú podmienky úspešného absolvovania?" >}}
+{{< collapsible-section "Ráta sa kurz do hodnotenia štúdia?" >}}
 
-Na úspešné udelenie kreditov musia študenti oboch úrovní splniť nasledujúce:
-- absolvovať dva testy počas každého semestra,
-- dosiahnuť v každom teste výsledok minimálne 65%.
+Nie, kurz nie je hodnotený, jeho cieľ je ti zjednodušiť participáciu na výučbe predmetov v slovenskom jazyku.
 
 {{< /collapsible-section >}}
 
 
-{{< collapsible-section "Kontakt a literatúra" >}}
+{{< collapsible-section "Kontakt" >}}
 
-V prípade ďalších otázok je potrebné kontaktovať Mgr. Aneta Barnes (miestnosť F2-286 alebo <aneta.barnes@fmph.uniba.sk>).
+V prípade ďalších otázok ohľadom intenzívneho kurzu slovenského jazyka je potrebné kontaktovať Mgr. Aneta Barnes (miestnosť F2-286 alebo <aneta.barnes@fmph.uniba.sk>).
 
-Pri štúdiu sa využíva literatúra ako *Slovenčina pre univerzitných študentov*, gramatické tabuľky a kurz *Slovak as a Foreign Language*
 {{< /collapsible-section >}}
 

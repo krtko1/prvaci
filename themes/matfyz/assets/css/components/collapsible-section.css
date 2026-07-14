@@ -1,9 +1,31 @@
 .collapsible-section summary {
+  display: flex;
+  align-items: flex-start;
+
   background-color: var(--accent-strong);
   color: var(--white);
   padding: 10px 12px;
   font-weight: 600;
-  font-size: 16px;
+  font-size: clamp(14px, 1rem + 0.2vw, 16px);
+  cursor: pointer;
+}
+
+.collapsible-section summary::marker {
+  content: "";
+}
+
+.collapsible-section summary::before {
+  flex-shrink: 0;
+  
+  content: "▸";
+  font-size: 20px;
+  line-height: 1.3;
+  margin-right: 8px;
+  transition: transform 0.3s ease;
+}
+
+.collapsible-section[open] summary::before {
+  transform: rotate(90deg);
 }
 
 .collapsible-section {
@@ -12,7 +34,7 @@
 }
 
 .collapsible-content {
-  font-size: 14px;
+  font-size: clamp(14px, 1rem + 0.2vw, 16px);
   text-align: justify;
   padding: 12px 12px;
   color: var(--text);

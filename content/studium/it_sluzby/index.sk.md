@@ -1,13 +1,14 @@
 +++
 title = 'IT služby a systémy'
-date = 2023-03-15T11:00:00-07:00
+date = 2026-06-08T00:00:00+01:00
 draft = false
-summary = 'Čo je [votr](votr.uniba.sk), ako sa prihlásiŤ na Wi-Fi, aké systémy sa používajú na predmetoch...'
+summary = 'Čo je votr, ako sa prihlásiť na Wi-Fi, aké systémy sa používajú na predmetoch...'
+weight = 4
 +++
 
 
-{{< collapsible-section "Ako používať [votr](votr.uniba.sk)?" >}}
-[Votr](votr.uniba.sk) je zjednodušené a prehľadné rozhranie pre [AiS2](ais2.uniba.sk) vyvinuté študentmi FMFI. Prihlasuj sa s rovnakými údajmi ako do AiS2. Funguje aj na mobile. V ľavom menu nájdeš
+{{< collapsible-section "Ako používať [votr](https://votr.uniba.sk)?" >}}
+[Votr](https://votr.uniba.sk) je zjednodušené a prehľadné rozhranie pre [AiS2](https://ais2.uniba.sk) vyvinuté študentmi FMFI. Prihlasuj sa s rovnakými údajmi ako do AiS2. Funguje aj na mobile. V ľavom menu nájdeš
 -   *prehľad štúdia*: akademický kalendár, zápisné listy,
 -   *moje predmety*: zapísané predmety a hodnotenia,
 -   *moje skúšky*: termíny skúšok, prihlasovanie a odhlasovanie.
@@ -45,15 +46,18 @@ Detailné návody, ako sa pripojiť k sieti eduroam nájdeš na stránke [uniba.
 
 {{< collapsible-section "Ako si zmením heslo do AiS?" >}}
 
-Heslo k študentskému kontu si vieš zmeniť cez portál [identity.uniba.sk](https://identity.uniba.sk/change)
+Heslo k študentskému kontu si vieš zmeniť cez portál [identity.uniba.sk](https://identity.uniba.sk)
 
 {{< /collapsible-section >}}
 
 {{< collapsible-section "Zabudol som heslo do AiS, čo teraz?" >}}
 
-Ak heslo zabudneš, navštív web
-[cdo.uniba.sk](https://cdo.uniba.sk/public/resetPass). Pre obnovenie
-hesla budeš potrebovať svoj dátum narodenia, číslo ISIC preukazu a mobil registrovaný v AiS, keďže nové heslo príde SMS-kou. Ak sa ti heslo nepodarí obnoviť, kontaktuj CePIT na (Centrum podpory informačných technológií) *02/59 244 944*.
+Ak heslo zabudneš, navštív web [identity.uniba.sk](https://identity.uniba.sk). Pre obnovenie hesla budeš potrebovať svoe rodné číslo, číslo ISIC preukazu a telefónne číslo registrované v AiS, keďže nové heslo príde SMS-kou. Ak sa ti heslo nepodarí obnoviť, kontaktuj CePIT na (Centrum podpory informačných technológií) buď na telefónnom čísle  02/9010 4444 alebo na e-mail <cepit@uniba.sk>.
 
 {{< /collapsible-section >}}
 
+{{< collapsible-section "Ďalšie odkazy" >}}
+
+Portál [moja.uniba.sk](https://moja.uniba.sk/) spája odkazy k väčšine elektronických služieb Univerzity Komenského. Nájdeš tu odkazy na AiS2, univerzitný e-mail, e-peňaženku, správu hesla a ďalšie užitočné IT služby.
+
+{{< /collapsible-section >}}

@@ -27,25 +27,60 @@ Controlled via site.Params.menuDepth (default 3).
   {{- $page := .page }}
   {{- $depth := .depth }}
   {{- $maxDepth := .maxDepth }}
+
   {{- range .nodes }}
+
+    {{- $childSections := .Sections.ByWeight }}
+    {{- $childPages := .RegularPages.ByWeight }}
+    {{- $hasChildren := or (gt (len $childSections) 0) (gt (len $childPages) 0) }}
+
     {{- $classes := slice "site-menu__link" }}
     {{- if eq $page.RelPermalink .RelPermalink }}
       {{- $classes = $classes | append "active" }}
     {{- else if .IsAncestor $page }}
       {{- $classes = $classes | append "ancestor" }}
     {{- end }}
+
     <li class="site-menu__item">
-      <a class="{{ delimit $classes " " }}" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
-      {{- if lt $depth $maxDepth }}
-        {{- $childSections := .Sections.ByWeight }}
-        {{- $childPages := .RegularPages.ByWeight }}
-        {{- if or (gt (len $childSections) 0) (gt (len $childPages) 0) }}
-          <ul class="site-menu__sublist">
-            {{- template "menu-children" (dict "nodes" $childSections "page" $page "depth" (add $depth 1) "maxDepth" $maxDepth) }}
-            {{- template "menu-children" (dict "nodes" $childPages "page" $page "depth" (add $depth 1) "maxDepth" $maxDepth) }}
+
+      {{- if and (lt $depth $maxDepth) $hasChildren }}
+
+      <details class="site-menu__details">
+        <summary class="site-menu__summary">
+      
+          <a class="{{ delimit $classes " " }}" href="{{ .RelPermalink }}">
+            {{ .LinkTitle }}
+          </a>
+               
+          <span class="site-menu__toggle-icon">▸</span>
+        </summary>
+      
+        <ul class="site-menu__sublist">
+            {{- template "menu-children" (dict
+              "nodes" $childSections
+              "page" $page
+              "depth" (add $depth 1)
+              "maxDepth" $maxDepth
+            ) }}
+
+            {{- template "menu-children" (dict
+              "nodes" $childPages
+              "page" $page
+              "depth" (add $depth 1)
+              "maxDepth" $maxDepth
+            ) }}
           </ul>
-        {{- end }}
+        </details>
+
+      {{- else }}
+
+        <a class="{{ delimit $classes " " }}" href="{{ .RelPermalink }}">
+          {{ .LinkTitle }}
+        </a>
+
       {{- end }}
+
     </li>
+
   {{- end }}
 {{- end }}

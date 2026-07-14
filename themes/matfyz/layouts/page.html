@@ -1,10 +1,24 @@
 {{ define "main" }}
   <article class="page">
     <header class="page-header">
+      <nav class="breadcrumbs">
+        <a href="{{ site.Home.RelPermalink }}">{{ i18n "home" }}</a>
+      
+        {{ range .Ancestors.Reverse }}
+          {{ if not .IsHome }}
+            › <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+          {{ end }}
+        {{ end }}
+      
+        › <span class="breadcrumbs__current">{{ .LinkTitle }}</span>
+      </nav>
+
       <h1 class="page-title">{{ .Title }}</h1>
+      {{/*
       {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
       {{ $dateHuman := .Date | time.Format ":date_long" }}
       <time class="page-meta" datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+      */}}
     </header>
 
     <div class="content">

@@ -1,8 +1,9 @@
 +++
 title = 'Rozvrh a krúžky'
-date = 2023-03-15T11:00:00-07:00
+date = 2026-06-08T00:00:00+01:00
 draft = false
 summary = 'Kde nájdeš svoj rozvrh a do akého krúžku patríš (a čo to vlastne je).'
+weight = 2
 +++
 
 
@@ -15,7 +16,7 @@ summary = 'Kde nájdeš svoj rozvrh a do akého krúžku patríš (a čo to vlas
 
 {{< collapsible-section "Kde nájdem svoj rozvrh?" >}}
 
-Rozvrhy na fakulte fungujú primárne cez systém [candle](candle.fmph.uniba.sk), kde nájdeš rozvrhy pre každý krúžok podľa odporúčaného študijného plánu. V systéme [AiS2](ais2.uniba.sk) sa rozvrhy spravidla riešia pri predmetoch z iných fakúlt.
+Rozvrhy na fakulte fungujú primárne cez systém [candle](https://candle.fmph.uniba.sk), kde nájdeš rozvrhy pre každý krúžok podľa odporúčaného študijného plánu. V systéme [AiS2](https://ais2.uniba.sk) sa rozvrhy spravidla riešia pri predmetoch z iných fakúlt.
 
 {{< /collapsible-section >}}
 
@@ -27,9 +28,9 @@ Rozvrhy na fakulte fungujú primárne cez systém [candle](candle.fmph.uniba.sk)
 {{< /collapsible-section >}}
 
 
-{{< collapsible-section "Prečo má Telesná výchova také veľké okno v rozvrhu?" >}}
+{{< collapsible-section "Prečo má v rozvrhu telesná výchova také veľké okno?" >}}
 
-Rozvrh pre športové aktivity sa nenachádza v systéme Candle, ale na [stránke Katedry telesnej výchovy a športu](https://ktvs.fmph.uniba.sk/) (pozri časť návodu *Prihlasovanie na Telesnú výchovu*).
+Nie všetky športy môžu prebiehať naraz v rámci jedného hodinového bloku. Preto máš v rozvrhu rezervované väčšie okno pre telesnú výchovu, aby nevznikali konflikty s inými predmetmi, ale v skutočnosti budeš chodiť iba na 60 minút vyhradených pre tvoj šport. Konkrétny čas, kedy sa koná tvoj šport, nájdeš včas na [stránke KTVŠ](https://ktvs.fmph.uniba.sk/).
 
 {{< /collapsible-section >}}
 

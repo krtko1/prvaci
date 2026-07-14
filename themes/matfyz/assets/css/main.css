@@ -2,6 +2,7 @@
 @import "components/menu.css";
 @import "components/footer.css";
 @import "components/collapsible-section.css";
+@import "components/breadcrumbs.css";
 
 
 @font-face {
@@ -189,7 +190,8 @@ h6 {
 
 .content {
   font-family: "Roboto", system-ui, sans-serif;
-  font-size: 1.05rem;
+  font-size: clamp(15px, 0.95rem + 0.45vw, 18px);
+  text-align: justify;
   line-height: 1.75;
   max-width: 70ch;
 }
@@ -236,11 +238,8 @@ h6 {
 }
 
 .card__title {
-  margin: 0;
-}
-
-.card__title a {
   color: var(--text);
+  margin: 0;
 }
 
 .card__summary {

@@ -1,8 +1,9 @@
 +++
 title = 'Kredity a skúšky'
-date = 2023-03-15T11:00:00-07:00
+date = 2026-06-08T00:00:00+01:00
 draft = false
 summary = 'Čo je kreditný systém a ako získať kredity (nielen) na skúškach.'
+weight = 3
 +++
 
 
@@ -28,13 +29,13 @@ Na úspešné ukončenie bakalárskeho štúdia je potrebné získať celkovo 18
 
 Každý predmet má vlastný spôsob hodnotenia, ktorý vysvetlí vyučujúci na prvých prednáškach/cvičeniach. Hodnotenie väčšinou pozostáva z priebežného hodnotenia (získaného počas semestra) a záverečného hodnotenia (získaného počas skúškového obdobia). Ak má predmet skúšku, tak v rámci skúškového obdobia má každý študent nárok na jeden riadny termín a dva opravné termíny (spoločné termíny, nie individuálne).
 
-Predmet je úspešne absolvovaný, ak získaš hodnotenie A až E, čím získaš plný počet kreditov za predmet. Neúspešné absolvovanie a teda 0 kreditov dostaneš pri známke Fx. Neýspešne absolvovaný predmet si môžeš zapísať druhýkrát, máš na jeho absolvovanie opäť tri skúškové termíny. Ak však druhýkrát zapísaný povinný alebo povinne voliteľný predmet neabsolvuješ, budeš vylúčený zo štúdia.
+Predmet je úspešne absolvovaný, ak získaš hodnotenie A až E, čím získaš plný počet kreditov za predmet. Neúspešné absolvovanie a teda 0 kreditov dostaneš pri známke Fx. Neúspešne absolvovaný predmet si môžeš zapísať druhýkrát, máš na jeho absolvovanie opäť tri skúškové termíny. Ak však druhýkrát zapísaný povinný alebo povinne voliteľný predmet neabsolvuješ, budeš vylúčený zo štúdia.
 
 {{< /collapsible-section >}}
 
 
 {{< collapsible-section "Ako sa prihlásim na skúšku?" >}}
 
-Väčšinou, ak chceš absolvovať skúšku v termíne vypísanom vyučujúcim, musíš sa na ňu prihlásiť cez systém [AiS2](ais2.uniba.sk) (zápisný list → skúšky → prihlásiť sa). Môžeš tiež použiť aj prehľadnejšiu nadstavbu [votr](votr.uniba.sk) (tam sa prihlasuješ v sekcii Moje skúšky). Z termínu sa dá do stanoveného dátumu aj odhlásiť.
+Väčšinou, ak chceš absolvovať skúšku v termíne vypísanom vyučujúcim, musíš sa na ňu prihlásiť cez systém [AiS2](https://ais2.uniba.sk) (zápisný list → skúšky → prihlásiť sa). Môžeš tiež použiť aj prehľadnejšiu nadstavbu [votr](https://votr.uniba.sk) (tam sa prihlasuješ v sekcii Moje skúšky). Z termínu sa dá do stanoveného dátumu aj odhlásiť.
 
 {{< /collapsible-section >}}

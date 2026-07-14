@@ -34,3 +34,48 @@ if (document.readyState === "loading") {
 } else {
   initMenu();
 }
+
+
+/* Automatic closing of collapsible sections, so that only one is open */
+let oldTop;
+
+document.querySelectorAll('.collapsible-section').forEach(details => {
+
+  details.querySelector('summary').addEventListener('click', function (e) {
+    if (details.open) return;
+  
+    e.preventDefault(); // stop native toggle until we finish
+  
+    const oldTop = details.getBoundingClientRect().top;
+  
+    document.querySelectorAll('.collapsible-section[open]').forEach(other => {
+      if (other !== details) {
+        other.open = false;
+      }
+    });
+  
+    requestAnimationFrame(() => {
+      details.open = true;
+  
+      const newTop = details.getBoundingClientRect().top;
+  
+      window.scrollBy({
+        top: newTop - oldTop,
+        left: 0,
+        behavior: 'auto'
+      });
+    });
+  });
+
+  details.addEventListener('toggle', function () {
+    if (!this.open) return;
+
+    const newTop = this.getBoundingClientRect().top;
+
+    window.scrollBy({
+      top: newTop - oldTop,
+      left: 0,
+      behavior: 'auto'
+    });
+  });
+});
