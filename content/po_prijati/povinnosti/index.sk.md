@@ -23,6 +23,29 @@ Následne, aby ti mohol byť vystavený ISIC, musíš zaplatiť poplatok, ktorý
 {{< /collapsible-section >}}
 
 
+{{< collapsible-section "Špecifiká pre podmienečne prijatých študentov" >}}
+
+Ak si nedostal *Rozhodnutie o prijatí*, ale *Rozhodnutie o podmienečnom prijatí*, musíš **do prezenčného zápisu dodať škole dokumenty o ukončení strednej školy**. V prípade, že tak nevykonáš, strácaš nárok na zápis na štúdium.
+
+{{< /collapsible-section >}}
+
+{{< collapsible-section "Špecifiká pre zahraničných študentov (mimo Česka)" >}}
+
+**Do konca augusta** máš povinnosť dodať fakulte **uznanie dokladov o vzdelaní** (tzv. doklad o rovnocennosti alebo nostrifikácia). Bez týchto dokumentov nie je možné ťa zapísať na štúdium. Spôsob a postup uznania dokladov o vzdelaní je rozdielny pre krajiny s uznávacou doložkou a bez uznávacej doložky.
+
+*Krajiny s uznávacou doložkou* sú krajiny EÚ a Čína, Island, Lichtenštajnsko, Nórsko, Rusko, Spojené kráľovstvo, Švajčiarsko a Ukrajina. Ak si navštevoval strednú školu v jednej z týchto krajín, navštív [túto stránku](https://uznavanie.minedu.sk/recognition-statement/). Následne si v portáli vyber krajinu, v ktorej si navštevoval strednú školu a stupeň vzdelania M a klikni na *Stiahnuť potvrdenie* (stiahne sa ti *Doložka o uznaní stupňa zahraničného vzdelania*). V dokumente v bode 7 (zoznam uznaných škôl v štáte pôvodu) si nájdi svoju strednú školu a sprav snímku obrazovky ako potvrdenie, že tvoja stredná škola je medzi uznanými. Následne treba listinnou formou dodať na adresu fakulty nasledovné dokumenty
+
+- diplom o ukončení strednej školy (overenú kópiu úradného prekladu do slovenského jazyka)
+- doložku o uznaní stupňa zahraničného vzdelania
+- snímku obrazovky s absolvovanou školou zo zoznamu uznaných škôl
+
+*Krajiny bez uznávacej doložky* sú všetky štáty okrem Slovenska, Česka a štátov s uznávacou doložkou (vyššie). Ak si absolvoval strednú školu v týchto krajinách, potrebuješ podať žiadosť o uznanie dokladu o vzdelaní regionálnemu úradu školskej správy. Navštív [túto stránku](https://www.minedu.sk/regionalne-urady-skolskej-spravy/), zvoľ si niektoré mesto a následne klikni na *Nostrifikácie - uznanie dokladov o vzdelaní*. Ďalej, podľa informácií na stránke podaj žiadosť, ktorá by mala mať hlavičku *Žiadosť o uznanie dokladu o strednom vzdelaní na pokračovanie v štúdiu a iné účely*. Tento proces je zdĺhavý, čiže **začni s vybavovaním bezodkladne**. Následne treba listinnou formou dodať na adresu fakulty nasledovné dokumenty
+
+- diplom o ukončení strednej školy (overenú kópiu úradného prekladu do slovenského jazyka)
+- rozhodnutie o uznaní dokladu (overenú kópiu)
+
+{{< /collapsible-section >}}
+
 {{< collapsible-section "Ako mám komunikovať s fakultou? Kde nájdem univerzitný login?" >}}
 
 Od momentu prijatia by mala tvoja e-mailová komunikácia s fakultou prebiehať z **univerzitného konta**. Prihlasovacie údaje nájdeš v doručenom *Rozhodnutí o prijatí*. Login je tvoje priezvisko a číslo, heslo, ktoré tiež nájdeš v rozhodnutí, ti odporúčame čo najskôr zmeniť (cez portál [identity.uniba.sk](https://identity.uniba.sk)). Tento univerzitný login budeš využívať celé štúdium.

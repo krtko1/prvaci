@@ -21,12 +21,21 @@ Na prezenčný zápis príď iba v čase a dátume určeného pre teba (viď [ha
 - vytlačené vyplnené čestné vyhlásenie (viac informácii nájdeš v maili od pani prodekanky)
 {{< /collapsible-section >}}
 
-{{< collapsible-section "Špeciálny priebeh pre neplnoletých, podmienečne prijatých a zahraničných študentov" >}}
-- pre **neplnoletých**: do kancelárie študijného oddelenia musíte ísť so zákonným zástupcom alebo splnomocnenou osobou a v dostatočnom predstihu pre prezenčným zápisom treba vyplniť formulár, o ktorom sa informuje prostredníctvom e-mailu od fakulty. Pre neplnoletých študentov je vyhradený jeden zápisný deň z troch
-- pre **podmienečne prijatých**: počas prezenčného zápisu nejdete do kancelárie študijného oddelenia spolu s ostatnými študentmi, musíte ísť za vedúcou ŠO do miestnosti č. 7 pre ďalšie informácie
-- pre **zahraničných**: ak vaša komunikácia s fakultou prebiehala cez e-mail vytvorený agentúrou, kontaktujte svoju študijnú referentku (pozri časť návodu [Štúdium; Komunikácia](../studium/komunikacia)) s informáciou o vašom súkromnom e-maili, ktorý používate
+{{< collapsible-section "Špeciálny priebeh pre neplnoletých a podmienečne prijatých študentov" >}}
+
+- pre **neplnoletých**: do kancelárie študijného oddelenia musíš ísť so zákonným zástupcom alebo splnomocnenou osobou a v dostatočnom predstihu pre prezenčným zápisom treba vyplniť formulár, o ktorom sa informuje prostredníctvom e-mailu od fakulty. Pre neplnoletých študentov je vyhradený jeden zápisný deň z troch
+- pre **podmienečne prijatých**: spoločnú úvodnú prednášku môžeš absolvovať, no následne ideš za vedúcou ŠO do miestnosti č. 7 pre ďalšie informácie. Bez dodania maturitného vysvedčenia alebo ekvivalentu zo zahraničia nemôžeš byť na štúdium prijatý
 
 {{< /collapsible-section >}}
+
+{{< collapsible-section "Čo dostanem na zápise?" >}}
+
+- zápisný list (viď nižšie)
+- preukaz študenta (podľa vyplnenej elektronickej návratky, pozri [Po prijatí; Dokumenty, povinnosti](../../po_prijati/povinnosti))
+- potvrdenie o štúdiu
+
+{{< /collapsible-section >}}
+
 
 {{< collapsible-section "Na zápise som dostal zápisný list, čo to je?" >}}
 
