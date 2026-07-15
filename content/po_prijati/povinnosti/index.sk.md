@@ -25,7 +25,7 @@ Následne, aby ti mohol byť vystavený ISIC, musíš zaplatiť poplatok, ktorý
 
 {{< collapsible-section "Ako mám komunikovať s fakultou? Kde nájdem univerzitný login?" >}}
 
-Od momentu prijatia by mala tvoja e-mailová komunikácia s fakultou prebiehať z **univerzitného konta**. Prihlasovacie údaje nájdeš v doručenom *Rozhodnutí o prijatí*. Login je tvoje priezvisko a číslo, heslo, ktoré tiež nájdeš v rozhodnutí, ti odporúčame čo najskôr zmeniť. Tento univerzitný login budeš využívať celé štúdium.
+Od momentu prijatia by mala tvoja e-mailová komunikácia s fakultou prebiehať z **univerzitného konta**. Prihlasovacie údaje nájdeš v doručenom *Rozhodnutí o prijatí*. Login je tvoje priezvisko a číslo, heslo, ktoré tiež nájdeš v rozhodnutí, ti odporúčame čo najskôr zmeniť (cez portál [identity.uniba.sk](https://identity.uniba.sk)). Tento univerzitný login budeš využívať celé štúdium.
 
 {{< /collapsible-section >}}
 
@@ -43,7 +43,7 @@ Vytlačené potvrdenia o absolvovaní oboch školení si **musíš doniesť** na
 
 {{< collapsible-section "Test z anglického jazyka" >}}
 
-Online test z anglického jazyka bude sprístupný niekoľko týždňov pred zápisom, pre konkrétnu informáciu sleduj e-mail od fakulty. Test bude sprístupnený \textbf{iba} v uvedenom termíne, v prípade, že sa vtedy naozaj nemôžeš pripojiť, obratom a v dostatočnom predstihu kontaktuj <rostas@fmph.uniba.sk>.
+Online test z anglického jazyka bude sprístupný niekoľko týždňov pred zápisom, pre konkrétnu informáciu sleduj e-mail od fakulty. Test bude sprístupnený **iba** v uvedenom termíne, v prípade, že sa vtedy naozaj nemôžeš pripojiť, obratom a v dostatočnom predstihu kontaktuj <rostas@fmph.uniba.sk>.
 
 Každý novoprijatý študent je **povinný** absolvovať test z anglického jazyka pre potreby výučby. Predmet Anglický jazyk (4) je povinným predmetom pre každý študijný program, no fakulta ponúka aj výberové (voliteľné) predmety Anglický jazyk (1) až (3). Pre študentov s lepším výsledkom z online testu z anglického sa odporúča absolvovať predmet Anglický jazyk (1) pred povinným Anglickým jazykom (4) a v prípade horšieho výsledku sa odporúča študentom absolvovať všetky štyri predmety (po poradí) počas prvých dvoch rokov štúdia.
 

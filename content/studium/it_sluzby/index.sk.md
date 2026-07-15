@@ -6,8 +6,9 @@ summary = 'Čo je votr, ako sa prihlásiť na Wi-Fi, aké systémy sa používaj
 weight = 4
 +++
 
+**Dôležité**: s fakultou vždy komunikuj pomocou tvojej univerzitnej e-mailovej adresy v tvare `login@uniba.sk`. Takisto, tento login používaj ako prihlasovací údaj do rôznych IT služieb alebo systémov popísaných nižšie.
 
-{{< collapsible-section "Ako používať [votr](https://votr.uniba.sk)?" >}}
+{{< collapsible-section "Ako používať votr?" >}}
 [Votr](https://votr.uniba.sk) je zjednodušené a prehľadné rozhranie pre [AiS2](https://ais2.uniba.sk) vyvinuté študentmi FMFI. Prihlasuj sa s rovnakými údajmi ako do AiS2. Funguje aj na mobile. V ľavom menu nájdeš
 -   *prehľad štúdia*: akademický kalendár, zápisné listy,
 -   *moje predmety*: zapísané predmety a hodnotenia,
@@ -52,7 +53,15 @@ Heslo k študentskému kontu si vieš zmeniť cez portál [identity.uniba.sk](ht
 
 {{< collapsible-section "Zabudol som heslo do AiS, čo teraz?" >}}
 
-Ak heslo zabudneš, navštív web [identity.uniba.sk](https://identity.uniba.sk). Pre obnovenie hesla budeš potrebovať svoe rodné číslo, číslo ISIC preukazu a telefónne číslo registrované v AiS, keďže nové heslo príde SMS-kou. Ak sa ti heslo nepodarí obnoviť, kontaktuj CePIT na (Centrum podpory informačných technológií) buď na telefónnom čísle  02/9010 4444 alebo na e-mail <cepit@uniba.sk>.
+Ak heslo zabudneš, navštív web [identity.uniba.sk](https://identity.uniba.sk). Pre obnovenie hesla budeš potrebovať svoje rodné číslo, číslo ISIC preukazu a telefónne číslo registrované v AiS, keďže nové heslo príde SMS-kou. Ak sa ti heslo nepodarí obnoviť, kontaktuj CePIT na (Centrum podpory informačných technológií) buď na telefónnom čísle  02/9010 4444 alebo na e-mail <cepit@uniba.sk>.
+
+Ak tieto postupy zlyhajú, osobne navštív fakultného správcu hesiel, ktorého nájdeš na [tejto stránke](https://uniba.sk/o-univerzite/rektorat-uk/citps/bezpecnost/fakultni-spravcovia-hesiel/). Budeš potrebovať preukaz totožnosti (občiansky preukaz alebo pas).
+
+{{< /collapsible-section >}}
+
+{{< collapsible-section "Preposielanie e-mailov z univerzitnej adresy na súkromnú" >}}
+
+Po prihlásení do univerzitného konta si môžeš v nastaveniach aplikácie Outlook zapnúť preposielanie e-mailov na inú adresu. V nastaveniach vyhľadaj možnosť *Preposielanie* a nastav adresu, na ktorú chceš e-maily prijímať. Mysli však na to, že komunikácia od teba s fakultou alebo univerzitou musí prebiehať z univerzitného e-mailu, nie zo súkromnej adresy.
 
 {{< /collapsible-section >}}
 

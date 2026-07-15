@@ -16,14 +16,18 @@ weight = 2
 
 {{< collapsible-section "Kde nájdem svoj rozvrh?" >}}
 
-Rozvrhy na fakulte fungujú primárne cez systém [candle](https://candle.fmph.uniba.sk), kde nájdeš rozvrhy pre každý krúžok podľa odporúčaného študijného plánu. V systéme [AiS2](https://ais2.uniba.sk) sa rozvrhy spravidla riešia pri predmetoch z iných fakúlt.
+Rozvrhy na fakulte fungujú primárne cez systém [candle](https://candle.fmph.uniba.sk), kde nájdeš rozvrhy jednotlivých krúžkov podľa odporúčaného študijného plánu. Tieto rozvrhy nie sú individuálne – obsahujú všetky odporúčané predmety pre daný semester pre celý krúžok. Predmety, ktoré máš v rozvrhu uvedené navyše oproti svojmu zápisnému listu, si preto nemusíš zapisovať.
+
+Ak si chceš v systéme [candle](https://candle.fmph.uniba.sk) vytvoriť vlastný prehľadný rozvrh, môžeš využiť jeho nástroje na úpravu rozvrhu. Maj však na pamäti, že vytvorený rozvrh nemá žiadny vplyv na tvoj zápisný list. Ak si pridáš predmet iba do rozvrhu, ale nezapíšeš si ho do zápisného listu, nemôžeš zaň získať hodnotenie. Naopak, ak si odstrániš zo svojho rozvrhu predmet, ktorý máš zapísaný v zápisnom liste, no neodstrániš ho aj zo zápisného listu do konca opravného zápisu, predmet budeš mať na konci semestra hodnotený.
+
+V systéme [AiS2](https://ais2.uniba.sk) sa rozvrhy spravidla riešia pri predmetoch z iných fakúlt.
 
 {{< /collapsible-section >}}
 
 
 {{< collapsible-section "V rozvrhu mám viackrát Anglický jazyk, na ktorý mám chodiť?" >}}
 
-Časy, kedy máš chodiť na výučbu Anglického jazyka, si nájdi na stránke pre rozvrhy na [cudzie jazyky](https://zona.fmph.uniba.sk/studenti-a-studium/rozvrhy/cudzie-jazyky/).
+Časy, kedy máš chodiť na výučbu Anglického jazyka, si nájdi na stránke pre [rozvrhy](https://zona.fmph.uniba.sk/studenti-a-studium/rozvrhy/) (keď bude rozdelenie dostupné, bude na odkaze *Rozvrhy a rozdelenie študentov na výučbu cudzích jazykov*).
 
 {{< /collapsible-section >}}
 
