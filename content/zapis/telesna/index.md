@@ -16,7 +16,7 @@ Výber športov pre predmet Telesná výchova a šport je veľmi široký, kompl
 
 {{< collapsible-section "Ako sa prihlásiť na jednotlivé športy?" >}}
 
-Prvý ročník bakalárskeho štúdia sa prihlasuje na športy elektronicky, cez formuláre, ktoré nájdete na [tejto stránke]({{< var "events.telesna.link_prihlasovanie" >}}). Termín spustenia prihlasovania sa dozvieš na prezenčnom zápise.
+Prvý ročník bakalárskeho štúdia sa prihlasuje na športy elektronicky, cez webové formuláre. Odkazy na ne a termín spustenia prihlasovania sa dozvieš na prezenčnom zápise.
 
 {{< /collapsible-section >}}
 

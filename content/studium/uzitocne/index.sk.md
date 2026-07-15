@@ -18,7 +18,7 @@ weight = 5
 
 {{< collapsible-section "Mapa fakulty" >}}
 
-![Description](/images/mapa_fmfi_web.jpg)
+![Description](../images/mapa_fmfi_web.jpg)
 
 {{< /collapsible-section >}}
 

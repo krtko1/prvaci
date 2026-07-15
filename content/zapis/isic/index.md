@@ -9,11 +9,15 @@ weight = 2
 Predtým, ako budeš môcť využiť plný potenciál ISICu je potrebné ho aktivovať pre jeho funkčnosť ako preukazu študenta (navštevovanie knižnice, zľava na stravu, verejná doprava...). Pre detailnejší prehľad benefitov z ISIC-u pozri časť návodu [Štúdium; Užitočné informácie](../../studium/uzitocne).
 
 {{< collapsible-section "Kde si aktivujem ISIC?" >}}
-Aktivácia je možná v termináloch [fakultných](https://uniba.sk/o-univerzite/rektorat-uk/citps/preukazy/terminaly/) alebo [verejných](https://www.ubian.sk/preukaz-studenta). Aktivácia plnej funkčnosti (napr. pre verejnú dopravu) môže trvať až do 24 hodín. V prípade, že ani po 24 hodinách ISIC nebude aktívny (zistíte napr. tak, že si nebudete môcť vybaviť zľavu na verejnú dopravu), kontaktuje študijné oddelenie UK (vašu študijnú referentku, pozri návod [Štúdium; Komunikácia](../studium/komunikacia)).
+
+Aktivácia je možná v termináloch [fakultných](https://uniba.sk/o-univerzite/rektorat-uk/citps/preukazy/terminaly/) alebo [verejných](https://www.ubian.sk/preukaz-studenta). Aktivácia plnej funkčnosti (napr. pre verejnú dopravu) môže trvať až do 24 hodín. V prípade, že ani po 24 hodinách ISIC nebude aktívny (zistíte napr. tak, že si nebudete môcť vybaviť zľavu na verejnú dopravu), kontaktuje študijné oddelenie fakulty (vašu študijnú referentku, pozri návod [Štúdium; Komunikácia](../studium/komunikacia)).
+
 {{< /collapsible-section >}}
 
 {{< collapsible-section "Ako získam zľavu na verejnú dopravu?" >}}
+
 Na sprístupnenie zľavy na verejnú dopravu je potrebné zaplatiť poplatok na [ubian.sk](https://www.ubian.sk). Tam si treba vytvoriť *Nový preukaz študenta*, kde následne bude výzva na zaplatenie sumy. Po zaplatení sumy by ste mali mať status študenta pre potreby verejnej dopravy na celom Slovensku.
+
 {{< /collapsible-section >}}
 
 {{< collapsible-section "Ako získam 100% zľavu na vlakovú dopravu?" >}}
