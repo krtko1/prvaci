@@ -6,6 +6,7 @@ summary = 'Orientácia na fakulte, jedálne, knižnica, načo ti je ISIC...'
 weight = 5
 +++
 
+Študentská komora akademického senátu (ŠKAS) každoročne vydáva [Matfyzákovho sprievodcu po galaxii](https://prvaci.matfyzjein.sk/sprievodca_prvaci_2025.pdf), kde nájdeš dôležité informácie, ktoré budeš potrebovať pred začiatkom štúdia aj počas prvých týždňov na fakulte.
 
 {{< collapsible-section "Ktoré miesta by som mal poznať?" >}}
 

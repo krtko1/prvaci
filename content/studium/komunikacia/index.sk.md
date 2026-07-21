@@ -44,9 +44,13 @@ Na tento účel je tzv. Čierna skrinka, ktorú nájdeš v časti Podpora na por
 
 Ak tvoj problém/otázka súvisiaca so štúdiom na FMFI nevie byť zodpovedaná mentormi, tútorom, garantom či na študijnom oddelení, ozvi sa prodekanke pre bakalárske a magisterské štúdium na e-mail <kristina.rostas@fmph.uniba.sk>.
 
-
 {{< /collapsible-section >}}
 
+{{< collapsible-section "Fakultný Discord server" >}}
+
+Pre potreby ľubovoľnej neformálnej komunikácie so študentmi našej fakulty existuje Discord server, na ktorý sa dostaneš cez [túto pozvánku](https://discord.gg/5YXrpUutP3) (následne si prečítaj pravidlá v kanáli #vestibul-pravidlá). Na tomto serveri môžeš nájsť aj kanály #poradňa, kde sa dá pýtať na čokoľvek spojené so štúdiom od otázok na konkrétne predmety až po IT poradňu, a #biela-skrinka, ktorá slúži popri čiernej skrinke práve na otázky, ktoré si nevyžadujú anonymitu (napr. kedy bude zverejnený rozvrh).
+
+{{< /collapsible-section >}}
 
 {{< collapsible-section "Koho môžem kontaktovať, ak potrebujem psychologickú pomoc, zážívam sexuálne obťažovanie alebo potrebujem inú krízovú pomoc?" >}}
 

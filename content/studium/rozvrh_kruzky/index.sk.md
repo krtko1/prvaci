@@ -46,6 +46,18 @@ V prípade, že ti čas cvičení pre tvoj krúžok veľmi nevyhovuje, je možn�
 {{< /collapsible-section >}}
 
 
+{{< collapsible-section "Ako si upravím rozvrh v candle?" >}}
+
+1. Vyhľadaj rozvrh pre svoj krúžok.
+2. Duplikuj rozvrh, duplikovaný rozvrh si môže premenovať.
+3. Označ si premety, prednášky, cvičenia na ktoré sa chystáš chodiť/chceš aby ostali v tvojom rozvrhu.
+4. V rolovacej lište nad rozvrhom na ľavej strane vyber Neoznačené a klikni na odstrániť.
+5. Ak chceš pridať do rozvrhu predmet, ktorý sa v rozvrhu pre tvoj krúžok nenachádza, vyhľadaj ho v kolónke Predmety a hodiny a klikni na prázdny biely štvorec.
+6. Rozvrh ulož kliknutím na Uložiť.
+7. Rozvrh daj Exportovať. Stiahni si vyhovujúci formát rozvrhu, ktorý môžeš importovať kam potrebuješ (Google kalendár, MS Outlook kalendár...)
+
+{{< /collapsible-section >}}
+
 {{< collapsible-section "Mám inú otázku k rozvrhu, na ktorú som tu nenašiel odpoveď" >}}
 
 Ak máš ďalšie otázky alebo nejasnosti ohľadom rozvrhov, odpoveď
