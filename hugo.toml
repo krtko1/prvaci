@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://navody.sluzby.fmph.uniba.sk/'
 title = 'FMFI návody'
 theme = 'matfyz'
 defaultContentLanguage = 'sk'
