@@ -33,7 +33,7 @@ Nie, kurz nie je hodnotený, jeho cieľ je ti zjednodušiť participáciu na vý
 
 {{< collapsible-section "Kontakt" >}}
 
-V prípade ďalších otázok ohľadom intenzívneho kurzu slovenského jazyka je potrebné kontaktovať Mgr. Aneta Barnes (miestnosť F2-286 alebo <aneta.barnes@fmph.uniba.sk>).
+V prípade ďalších otázok ohľadom intenzívneho kurzu slovenského jazyka je potrebné kontaktovať Mgr. Aneta Barnes (miestnosť F2-286 alebo <!--email_off--><a href="mailto:aneta.barnes@fmph.uniba.sk">aneta.barnes@fmph.uniba.sk</a><!--/email_off-->).
 
 {{< /collapsible-section >}}
 

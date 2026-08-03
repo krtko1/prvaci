@@ -53,7 +53,7 @@ Heslo k študentskému kontu si vieš zmeniť cez portál [identity.uniba.sk](ht
 
 {{< collapsible-section "Zabudol som heslo do AiS, čo teraz?" >}}
 
-Ak heslo zabudneš, navštív web [identity.uniba.sk](https://identity.uniba.sk). Pre obnovenie hesla budeš potrebovať svoje rodné číslo, číslo ISIC preukazu a telefónne číslo registrované v AiS, keďže nové heslo príde SMS-kou. Ak sa ti heslo nepodarí obnoviť, kontaktuj CePIT na (Centrum podpory informačných technológií) buď na telefónnom čísle  02/9010 4444 alebo na e-mail <cepit@uniba.sk>.
+Ak heslo zabudneš, navštív web [identity.uniba.sk](https://identity.uniba.sk). Pre obnovenie hesla budeš potrebovať svoje rodné číslo, číslo ISIC preukazu a telefónne číslo registrované v AiS, keďže nové heslo príde SMS-kou. Ak sa ti heslo nepodarí obnoviť, kontaktuj CePIT na (Centrum podpory informačných technológií) buď na telefónnom čísle  02/9010 4444 alebo na e-mail <!--email_off--><a href="mailto:cepit@uniba.sk">cepit@uniba.sk</a><!--/email_off-->.
 
 Ak tieto postupy zlyhajú, osobne navštív fakultného správcu hesiel, ktorého nájdeš na [tejto stránke](https://uniba.sk/o-univerzite/rektorat-uk/citps/bezpecnost/fakultni-spravcovia-hesiel/). Budeš potrebovať preukaz totožnosti (občiansky preukaz alebo pas).
 

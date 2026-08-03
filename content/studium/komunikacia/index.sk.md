@@ -12,7 +12,7 @@ weight = 6
 
 Už niekoľko rokov beží na našej fakulte projekt tzv. prváckych mentorov. Je to skupina študentov z rôznych odborov, ktorí sa starajú o to, aby mali prváci jednoduchší začiatok štúdia na univerzite, ktorý je veľkou zmenou oproti stredoškolskému. 
 
-Jednou z našich iniciatív je napríklad aj táto stránka. Ak tu nenájdeš odpoveď na tvoju otázku, môžeš nám napísať na spoločný mailinglist <mentori@fmph.uniba.sk> a niekto z nás ti odpíše.
+Jednou z našich iniciatív je napríklad aj táto stránka. Ak tu nenájdeš odpoveď na tvoju otázku, môžeš nám napísať na spoločný mailinglist <!--email_off--><a href="mailto:mentori@fmph.uniba.sk">mentori@fmph.uniba.sk</a><!--/email_off--> a niekto z nás ti odpíše.
 
 {{< /collapsible-section >}}
 
@@ -42,7 +42,7 @@ Na tento účel je tzv. Čierna skrinka, ktorú nájdeš v časti Podpora na por
 
 {{< collapsible-section "Koho mám kontaktovať, ak môj problém nevie vyriešiť nikto z vyššie uvedených?" >}}
 
-Ak tvoj problém/otázka súvisiaca so štúdiom na FMFI nevie byť zodpovedaná mentormi, tútorom, garantom či na študijnom oddelení, ozvi sa prodekanke pre bakalárske a magisterské štúdium na e-mail <kristina.rostas@fmph.uniba.sk>.
+Ak tvoj problém/otázka súvisiaca so štúdiom na FMFI nevie byť zodpovedaná mentormi, tútorom, garantom či na študijnom oddelení, ozvi sa prodekanke pre bakalárske a magisterské štúdium na e-mail <!--email_off--><a href="mailto:kristina.rostas@fmph.uniba.sk">kristina.rostas@fmph.uniba.sk</a><!--/email_off-->.
 
 {{< /collapsible-section >}}
 
@@ -54,12 +54,12 @@ Pre potreby ľubovoľnej neformálnej komunikácie so študentmi našej fakulty 
 
 {{< collapsible-section "Koho môžem kontaktovať, ak potrebujem psychologickú pomoc, zážívam sexuálne obťažovanie alebo potrebujem inú krízovú pomoc?" >}}
 
-Psychologická poradňa pre vysokoškolákov UK sa nachádza na adrese Staré grunty 36 (Átriový dom R, areál Mlyny). Tel.: 0911 972 160, e-mail: <ppv@rec.uniba.sk>. Poskytuje osobné individuálne, párové a aj e-mailové poradenstvo.
+Psychologická poradňa pre vysokoškolákov UK sa nachádza na adrese Staré grunty 36 (Átriový dom R, areál Mlyny). Tel.: 0911 972 160, e-mail: <!--email_off--><a href="mailto:ppv@rec.uniba.sk">ppv@rec.uniba.sk</a><!--/email_off-->. Poskytuje osobné individuálne, párové a aj e-mailové poradenstvo.
 
  prípade sexuálneho obťažovanie má Univerzita Komenského dôverné osoby, na ktoré sa môžeš obrátiť anonymne e-mailom:
 
-- <stopobtazovaniu1@uniba.sk>
-- <stopobtazovaniu2@uniba.sk>
+- <!--email_off--><a href="mailto:stopobtazovaniu1@uniba.sk">stopobtazovaniu1@uniba.sk</a><!--/email_off--> 
+- <!--email_off--><a href="mailto:stopobtazovaniu2@uniba.sk">stopobtazovaniu2@uniba.sk</a><!--/email_off-->
 
 Viac informácií a postup pri oznámení nájdeš na nasledujúcich webstránkach:
 - [infocentrum.uniba.sk](https://infocentrum.uniba.sk/sexualne-obtazovanie/)
@@ -67,7 +67,7 @@ Viac informácií a postup pri oznámení nájdeš na nasledujúcich webstránka
 
 Ďalšie krízové linky, ktoré môžeš využiť sú:
 
-- *IPčko*: anonymná nonstop psychologická pomoc: [ipcko.sk](https://ipcko.sk), e-mail: <poradna@ipcko.sk>
+- *IPčko*: anonymná nonstop psychologická pomoc: [ipcko.sk](https://ipcko.sk), e-mail: <!--email_off--><a href="mailto:poradna@ipcko.sk">poradna@ipcko.sk</a><!--/email_off--> 
 - *Národná linka pre ženy* (násilie): tel.: 0800 212 212 (nonstop, bezplatná)
 - *Linka detskej dôvery*: **116 111**
 - polícia (158) a tiesňová linka (112)

@@ -14,7 +14,7 @@ other = "Menu"
 other = "Close"
 
 [footerText]
-other = "If you have any unanswered questions, see the faculty <a href=https://zona.fmph.uniba.sk/studenti-a-studium/casto-kladene-otazky/>frequently asked questions</a> or contact us at <a href=mailto:mentori@fmph.uniba.sk>mentori@fmph.uniba.sk</a>"
+other = "If you have any unanswered questions, see the faculty <a href=https://zona.fmph.uniba.sk/studenti-a-studium/casto-kladene-otazky/>frequently asked questions</a> or contact us at <!--email_off--><a href=mailto:mentori@fmph.uniba.sk>mentori@fmph.uniba.sk</a><!--/email_off-->"
 
 [footerTextWebUpdate]
 other = "Website updated"
