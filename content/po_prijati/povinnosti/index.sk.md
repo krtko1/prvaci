@@ -55,18 +55,18 @@ Od momentu prijatia by mala tvoja e-mailová komunikácia s fakultou prebiehať 
 
 {{< collapsible-section "Školenia BOZP a OPP" >}}
 
-Školenia BOZP (bezpečnosť a ochrana zdravia pri práci) a OPP (ochrana pred požiarmi) si **povinný** absolvovať pred prezenčným zápisom (konkrétne informácie nájdeš v e-maili od fakulty). Tieto školenia budú dostupné online cez portál spoločnosti PROFIS, spol. s.r.o. Prihlasovacie údaje dostaneš v dostatočnom predstihu na tvoj súkromný e-mail, ktorý si uviedol v prihláške. Ak sa tak nestalo (pozri si spam), kontaktuj pani prodekanku <rostas@fmph.uniba.sk>. 
+Školenia BOZP (bezpečnosť a ochrana zdravia pri práci) a OPP (ochrana pred požiarmi) si **povinný** absolvovať pred prezenčným zápisom (konkrétne informácie nájdeš v e-maili od fakulty). Tieto školenia budú dostupné online cez portál spoločnosti PROFIS, spol. s.r.o. Prihlasovacie údaje dostaneš v dostatočnom predstihu na tvoj súkromný e-mail, ktorý si uviedol v prihláške. Ak sa tak nestalo (pozri si spam), kontaktuj pani prodekanku <!--email_off--><a href="mailto:rostas@fmph.uniba.sk">rostas@fmph.uniba.sk</a><!--/email_off-->. 
 
 Cieľom školení BOZP a OPP je oboznámiť ťa so základnými pravidlami bezpečnosti a ochrany zdravia pri pobyte v priestoroch fakulty, ako aj s postupmi pri požiaroch a iných mimoriadnych situáciách. Dozvieš sa napríklad, ako sa zachovať pri evakuácii, ako hľadať dôležité bezpečnostné prvky a aké zásady je potrebné dodržiavať, aby bolo štúdium bezpečné.
 
-Vytlačené potvrdenia o absolvovaní oboch školení si **musíš doniesť** na prezenčný zápis. V prípade, že si školenia nestihol absolvovať, bezodkladne kontaktuj <rostas@fmph.uniba.sk>.
+Vytlačené potvrdenia o absolvovaní oboch školení si **musíš doniesť** na prezenčný zápis. V prípade, že si školenia nestihol absolvovať, bezodkladne kontaktuj <!--email_off--><a href="mailto:rostas@fmph.uniba.sk">rostas@fmph.uniba.sk</a><!--/email_off-->.
 
 {{< /collapsible-section >}}
 
 
 {{< collapsible-section "Test z anglického jazyka" >}}
 
-Online test z anglického jazyka bude sprístupný niekoľko týždňov pred zápisom, pre konkrétnu informáciu sleduj e-mail od fakulty. Test bude sprístupnený **iba** v uvedenom termíne, v prípade, že sa vtedy naozaj nemôžeš pripojiť, obratom a v dostatočnom predstihu kontaktuj <rostas@fmph.uniba.sk>.
+Online test z anglického jazyka bude sprístupný niekoľko týždňov pred zápisom, pre konkrétnu informáciu sleduj e-mail od fakulty. Test bude sprístupnený **iba** v uvedenom termíne, v prípade, že sa vtedy naozaj nemôžeš pripojiť, obratom a v dostatočnom predstihu kontaktuj <!--email_off--><a href="mailto:rostas@fmph.uniba.sk">rostas@fmph.uniba.sk</a><!--/email_off-->.
 
 Každý novoprijatý študent je **povinný** absolvovať test z anglického jazyka pre potreby výučby. Predmet Anglický jazyk (4) je povinným predmetom pre každý študijný program, no fakulta ponúka aj výberové (voliteľné) predmety Anglický jazyk (1) až (3). Pre študentov s lepším výsledkom z online testu z anglického sa odporúča absolvovať predmet Anglický jazyk (1) pred povinným Anglickým jazykom (4) a v prípade horšieho výsledku sa odporúča študentom absolvovať všetky štyri predmety (po poradí) počas prvých dvoch rokov štúdia.
 

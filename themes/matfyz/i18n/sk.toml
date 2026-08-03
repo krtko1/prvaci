@@ -14,7 +14,7 @@ other = "Ponuka"
 other = "Zavrieť"
 
 [footerTextContact]
-other = "V prípade nezodpovedaných otázok pozri fakultné <a href=https://zona.fmph.uniba.sk/studenti-a-studium/casto-kladene-otazky/>často kladené otázky</a> alebo nás kontaktuj na <a href=mailto:mentori@fmph.uniba.sk>mentori@fmph.uniba.sk</a>"
+other = "V prípade nezodpovedaných otázok pozri fakultné <a href=https://zona.fmph.uniba.sk/studenti-a-studium/casto-kladene-otazky/>často kladené otázky</a> alebo nás kontaktuj na <!--email_off--><a href=mailto:mentori@fmph.uniba.sk>mentori@fmph.uniba.sk</a><!--/email_off-->"
 
 [footerTextWebUpdate]
 other = "Web aktualizovaný"

@@ -5,6 +5,11 @@ defaultContentLanguage = 'sk'
 defaultContentLanguageInSubdir = true
 enableGitInfo = true
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [languages]
   [languages.sk]
     label = 'SK'
