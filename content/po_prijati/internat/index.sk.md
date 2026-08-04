@@ -89,11 +89,9 @@ Podrobný návod aj s obrázkami nájdeš v dokumente [Návod na výber izby](ht
 
 {{< collapsible-section "Ak ešte nemáš 18 rokov" >}}
 
-Ak budeš mať v deň nástupu na internát menej ako 18 rokov, budeš pri ubytovaní potrebovať **písomný súhlas zákonného zástupcu** s ubytovaním.
+Ak budeš mať v deň nástupu na internát menej ako 18 rokov, musíš prísť **v sprievode zákonného zástupcu alebo splnomocnenej osoby**, kto má splnomocnenie podpísané zákonným zástupcom. Odporúčame ti pripraviť si ho ešte pred príchodom na internát, aby sa tvoje ubytovanie zbytočne nepredĺžilo.
 
-Súhlas musí byť podpísaný zákonným zástupcom. Odporúčame ti pripraviť si ho ešte pred príchodom na internát, aby sa tvoje ubytovanie zbytočne nepredĺžilo.
-
-Podrobné informácie vrátane vzoru súhlasu nájdeš na stránke [Neplnoletí študenti](https://mlyny.uniba.sk/ubytovanie/neplnoleti-studenti/).
+Podrobné informácie vrátane vzoru splnomocnenia nájdeš na stránke [Neplnoletí študenti](https://mlyny.uniba.sk/ubytovanie/neplnoleti-studenti/).
 
 {{< /collapsible-section >}}
 
