@@ -13,7 +13,7 @@
         </summary>
     
         <div class="lang-dropdown__menu">
-          {{ range site.Home.AllTranslations }}
+          {{ range page.AllTranslations }}
             {{ if ne .Lang $currentLang }}
               <a class="lang-switch__link" href="{{ .RelPermalink }}">
                 {{ .Language.Label }}
