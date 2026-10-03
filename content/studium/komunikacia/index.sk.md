@@ -19,7 +19,7 @@ Jednou z našich iniciatív je napríklad aj táto stránka. Ak tu nenájdeš od
 
 {{< collapsible-section "Koho môžem kontaktovať, s otázkami ohľadom študijného programu, výberu predmetov alebo súvisiacich otázok?" >}}
 
-Každý študijný program má svojho tútora, ktorý ti vie pomôcť s výberom predmetov či plánovaním štúdia. Informáciu, kto je túto tvojho študijného programu nájdeš na stránke o [študijných programoch](https://zona.fmph.uniba.sk/studenti-a-studium/studijne-programy).
+Každý študijný program má svojho tútora, ktorý ti vie pomôcť s výberom predmetov či plánovaním štúdia. Informáciu, kto je tútor tvojho študijného programu nájdeš na stránke o [študijných programoch](https://zona.fmph.uniba.sk/studenti-a-studium/studijne-programy).
 
 Ak máš otázku súvisiacu so študijným programom no nie tak celkom s tvojim štúdiom, môžeš kontaktovať garanta programu. Garant je osoba zodpovedajúca za kvalitu výučby daného programu, jeho rozvoj a úpravy študijného plánu. Svojho garanta nájdeš po rozkliknutí svojho programu na stránke pre [bakalárske štúdium](https://fmph.uniba.sk/studium/bakalarske-studium/).
 
@@ -48,7 +48,8 @@ Ak tvoj problém/otázka súvisiaca so štúdiom na FMFI nevie byť zodpovedaná
 
 {{< collapsible-section "Fakultný Discord server" >}}
 
-Pre potreby ľubovoľnej neformálnej komunikácie so študentmi našej fakulty existuje Discord server, na ktorý sa dostaneš cez [túto pozvánku](https://discord.gg/5YXrpUutP3) (následne si prečítaj pravidlá v kanáli #vestibul-pravidlá). Na tomto serveri môžeš nájsť aj kanály #poradňa, kde sa dá pýtať na čokoľvek spojené so štúdiom od otázok na konkrétne predmety až po IT poradňu, a #biela-skrinka, ktorá slúži popri čiernej skrinke práve na otázky, ktoré si nevyžadujú anonymitu (napr. kedy bude zverejnený rozvrh).
+Pre potreby ľubovoľnej neformálnej komunikácie so študentmi našej fakulty existuje Discord server, na ktorý sa dostaneš cez [túto pozvánku](https://discord.gg/5YXrpUutP3) (následne si prečítaj pravidlá v kanáli `#vestibul-pravidlá`).
+Na tomto serveri môžeš nájsť aj kanály `#poradňa`, kde sa dá pýtať na čokoľvek spojené so štúdiom od otázok na konkrétne predmety až po IT poradňu, a `#biela-skrinka`, ktorá slúži popri čiernej skrinke práve na otázky, ktoré si nevyžadujú anonymitu (napr. kedy bude zverejnený rozvrh).
 
 {{< /collapsible-section >}}
 
@@ -56,7 +57,7 @@ Pre potreby ľubovoľnej neformálnej komunikácie so študentmi našej fakulty 
 
 Psychologická poradňa pre vysokoškolákov UK sa nachádza na adrese Staré grunty 36 (Átriový dom R, areál Mlyny). Tel.: 0911 972 160, e-mail: <!--email_off--><a href="mailto:ppv@rec.uniba.sk">ppv@rec.uniba.sk</a><!--/email_off-->. Poskytuje osobné individuálne, párové a aj e-mailové poradenstvo.
 
- prípade sexuálneho obťažovanie má Univerzita Komenského dôverné osoby, na ktoré sa môžeš obrátiť anonymne e-mailom:
+V prípade sexuálneho obťažovanie má Univerzita Komenského dôverné osoby, na ktoré sa môžeš obrátiť anonymne e-mailom:
 
 - <!--email_off--><a href="mailto:stopobtazovaniu1@uniba.sk">stopobtazovaniu1@uniba.sk</a><!--/email_off--> 
 - <!--email_off--><a href="mailto:stopobtazovaniu2@uniba.sk">stopobtazovaniu2@uniba.sk</a><!--/email_off-->
