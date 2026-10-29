@@ -7,7 +7,7 @@ COPY . .
 
 RUN hugo --minify --cleanDestinationDir
 
-FROM caddy:2-alpine
+FROM caddy:2-alpine AS production
 
 COPY Caddyfile /etc/caddy/Caddyfile
 COPY --from=builder /src/public/ /usr/share/caddy/
